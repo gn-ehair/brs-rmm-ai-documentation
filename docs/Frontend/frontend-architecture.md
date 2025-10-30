@@ -66,6 +66,6 @@ $.post('/member/contact/update', payload).done(data => {
 - Styling drift from inconsistent utility class usage
 
 ## See Also
-- [Events and DOM Communication](../frontend/events-and-dom-communication.md)
-- [Testing Strategy](../quality/testing-strategy.md)
-- [Feature Golden Path](../guides/feature-golden-path.md)
+- [Events and DOM Communication](../Frontend/events-and-dom-communication.md)
+- [Testing Strategy](../Quality/testing-strategy.md)
+- [Feature Golden Path](../Guides/feature-golden-path.md)

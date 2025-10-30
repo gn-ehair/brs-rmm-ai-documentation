@@ -147,16 +147,16 @@ const config: Config = {
               to: '/docs/overview',
             },
             {
-              label: 'Foundations',
-              to: '/docs/Foundations/',
+              label: 'System Architecture',
+              to: '/docs/Foundations/system-architecture',
             },
             {
-              label: 'Data Model',
-              to: '/docs/Data-model/',
+              label: 'Commands & Handlers',
+              to: '/docs/Patterns/commands-and-handlers',
             },
             {
-              label: 'Patterns',
-              to: '/docs/Patterns/',
+              label: 'Value Objects',
+              to: '/docs/Data-model/value-objects',
             },
             {
               label: 'Browse by Tags',

@@ -61,6 +61,6 @@ $vo = $commandBus->handle($cmd);
 - Accumulating ad-hoc authorization checks in controllers instead of handlers
 
 ## See Also
-- [Multi-Tenancy](../foundations/multi-tenancy.md)
-- [Request Lifecycle](../foundations/request-lifecycle.md)
-- [Error and Resilience](../quality/error-and-resilience.md)
+- [Multi-Tenancy](../Foundations/multi-tenancy.md)
+- [Request Lifecycle](../Foundations/request-lifecycle.md)
+- [Error and Resilience](../Quality/error-and-resilience.md)

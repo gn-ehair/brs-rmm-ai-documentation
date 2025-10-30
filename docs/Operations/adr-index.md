@@ -19,4 +19,4 @@ List of Architectural Decision Records (ADRs). If no ADRs exist yet, this file s
 - Adopt structured metrics naming standard
 
 ## See Also
-- [System Architecture](../foundations/system-architecture.md)
+- [System Architecture](../Foundations/system-architecture.md)

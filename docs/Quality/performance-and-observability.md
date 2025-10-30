@@ -60,6 +60,6 @@ $metrics->timing('command.duration.ms', $duration, ['command'=> 'GetMemberProfil
 - Adding instrumentation that materially slows hot paths
 
 ## See Also
-- [Repository & Caching Strategy](../patterns/repository-and-caching-strategy.md)
-- [Error and Resilience](../quality/error-and-resilience.md)
-- [Security Overview](../foundations/security-overview.md)
+- [Repository & Caching Strategy](../Patterns/repository-and-caching-strategy.md)
+- [Error and Resilience](../Quality/error-and-resilience.md)
+- [Security Overview](../Foundations/security-overview.md)

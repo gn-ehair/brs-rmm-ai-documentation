@@ -74,6 +74,6 @@ final class UpdateMemberContactHandler {
 - Adding cross-cutting logic directly into each Handler (prefer middleware)
 
 ## See Also
-- [Repository & Caching Strategy](../patterns/repository-and-caching-strategy.md)
-- [Value Objects](../data-model/value-objects.md)
-- [Feature Golden Path](../guides/feature-golden-path.md)
+- [Repository & Caching Strategy](../Patterns/repository-and-caching-strategy.md)
+- [Value Objects](../Data-model/value-objects.md)
+- [Feature Golden Path](../Guides/feature-golden-path.md)

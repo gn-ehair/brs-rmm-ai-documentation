@@ -55,6 +55,6 @@ Provide the canonical end-to-end workflow for delivering a new read/write member
 - Provide feature flag around write operations for phased rollout
 
 ## See Also
-- [Commands & Handlers](../patterns/commands-and-handlers.md)
-- [Repository & Caching Strategy](../patterns/repository-and-caching-strategy.md)
-- [Testing Strategy](../quality/testing-strategy.md)
+- [Commands & Handlers](../Patterns/commands-and-handlers.md)
+- [Repository & Caching Strategy](../Patterns/repository-and-caching-strategy.md)
+- [Testing Strategy](../Quality/testing-strategy.md)

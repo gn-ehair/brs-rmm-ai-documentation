@@ -87,6 +87,6 @@ public function handle(UpdateMemberContactCommand $c): MemberContactVO {
 - Bloated Controllers performing orchestration logic
 
 ## See Also
-- [Request Lifecycle](../foundations/request-lifecycle.md)
-- [Commands & Handlers](../patterns/commands-and-handlers.md)
-- [Repository & Caching Strategy](../patterns/repository-and-caching-strategy.md)
+- [Request Lifecycle](../Foundations/request-lifecycle.md)
+- [Commands & Handlers](../Patterns/commands-and-handlers.md)
+- [Repository & Caching Strategy](../Patterns/repository-and-caching-strategy.md)

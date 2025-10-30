@@ -70,6 +70,6 @@ final class MemberProfileVO {
 - Re-exporting raw arrays instead of providing `toArray()` methods
 
 ## See Also
-- [Value Objects](../data-model/value-objects.md)
-- [Commands & Handlers](../patterns/commands-and-handlers.md)
-- [Frontend Architecture](../frontend/frontend-architecture.md)
+- [Value Objects](../Data-model/value-objects.md)
+- [Commands & Handlers](../Patterns/commands-and-handlers.md)
+- [Frontend Architecture](../Frontend/frontend-architecture.md)

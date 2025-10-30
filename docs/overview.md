@@ -194,6 +194,6 @@ class ActionHandler {
 ## Next Steps
 
 For detailed implementation guides, see:
-- [Command Pattern Documentation](command-pattern.md)
-- [Backend Development Guide](../development/backend/getting-started.md)
-- [API Integration Guide](../api/endpoints.md)
+- [Command Pattern Documentation](./Foundations/command-pattern.md)
+- [Feature Development Guide](./Guides/feature-golden-path.md)
+- [System Architecture](./Foundations/system-architecture.md)

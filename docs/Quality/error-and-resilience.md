@@ -67,6 +67,6 @@ try {
 - Swallowing exceptions and returning null (ambiguous failure)
 
 ## See Also
-- [Repository & Caching Strategy](../patterns/repository-and-caching-strategy.md)
-- [Testing Strategy](../quality/testing-strategy.md)
-- [Performance and Observability](../quality/performance-and-observability.md)
+- [Repository & Caching Strategy](../Patterns/repository-and-caching-strategy.md)
+- [Testing Strategy](../Quality/testing-strategy.md)
+- [Performance and Observability](../Quality/performance-and-observability.md)

@@ -48,5 +48,5 @@ Intent (Command) → Execution (Handler) → Data Access (Repository) → Value 
 
 ## See Also
 - [Glossary](../glossary.md)
-- [System Architecture](../foundations/system-architecture.md)
-- [Commands & Handlers](../patterns/commands-and-handlers.md)
+- [System Architecture](../Foundations/system-architecture.md)
+- [Commands & Handlers](../Patterns/commands-and-handlers.md)

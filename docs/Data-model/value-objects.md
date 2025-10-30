@@ -72,6 +72,6 @@ final class BookingSlotVO {
 - Forgetting alternate constructor for cache hydration
 
 ## See Also
-- [Domain and Data Shapes](../data-model/domain-and-data-shapes.md)
-- [Commands & Handlers](../patterns/commands-and-handlers.md)
-- [Repository & Caching Strategy](../patterns/repository-and-caching-strategy.md)
+- [Domain and Data Shapes](../Data-model/domain-and-data-shapes.md)
+- [Commands & Handlers](../Patterns/commands-and-handlers.md)
+- [Repository & Caching Strategy](../Patterns/repository-and-caching-strategy.md)

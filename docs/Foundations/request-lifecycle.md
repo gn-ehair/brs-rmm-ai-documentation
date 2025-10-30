@@ -81,6 +81,6 @@ return $this->json(['member' => $profileVO->toArray()]);
 - Coupling Controller tests to repository behavior (test via command bus)
 
 ## See Also
-- [System Architecture](../foundations/system-architecture.md)
-- [Multi-Tenancy](../foundations/multi-tenancy.md)
-- [Commands & Handlers](../patterns/commands-and-handlers.md)
+- [System Architecture](../Foundations/system-architecture.md)
+- [Multi-Tenancy](../Foundations/multi-tenancy.md)
+- [Commands & Handlers](../Patterns/commands-and-handlers.md)

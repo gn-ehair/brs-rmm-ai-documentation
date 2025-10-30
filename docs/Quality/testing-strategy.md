@@ -69,6 +69,6 @@ public function testHandlerReturnsViewModel(): void {
 - Failing to assert club scoping in repository tests
 
 ## See Also
-- [Commands & Handlers](../patterns/commands-and-handlers.md)
-- [Repository & Caching Strategy](../patterns/repository-and-caching-strategy.md)
-- [Frontend Architecture](../frontend/frontend-architecture.md)
+- [Commands & Handlers](../Patterns/commands-and-handlers.md)
+- [Repository & Caching Strategy](../Patterns/repository-and-caching-strategy.md)
+- [Frontend Architecture](../Frontend/frontend-architecture.md)

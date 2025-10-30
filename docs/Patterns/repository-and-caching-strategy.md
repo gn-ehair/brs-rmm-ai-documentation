@@ -73,6 +73,6 @@ final class MemberRepositoryImpl implements MemberRepository {
 - Silent failures returning null instead of raising a domain exception
 
 ## See Also
-- [Multi-Tenancy](../foundations/multi-tenancy.md)
-- [Error and Resilience](../quality/error-and-resilience.md)
-- [Performance and Observability](../quality/performance-and-observability.md)
+- [Multi-Tenancy](../Foundations/multi-tenancy.md)
+- [Error and Resilience](../Quality/error-and-resilience.md)
+- [Performance and Observability](../Quality/performance-and-observability.md)

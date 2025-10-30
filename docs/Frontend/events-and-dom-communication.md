@@ -61,6 +61,6 @@ window.addEventListener('member-contact:updated', (e) => {
 - Emitting high-frequency events (e.g., on each keypress) harming performance
 
 ## See Also
-- [Frontend Architecture](../frontend/frontend-architecture.md)
-- [Testing Strategy](../quality/testing-strategy.md)
-- [Feature Golden Path](../guides/feature-golden-path.md)
+- [Frontend Architecture](../Frontend/frontend-architecture.md)
+- [Testing Strategy](../Quality/testing-strategy.md)
+- [Feature Golden Path](../Guides/feature-golden-path.md)

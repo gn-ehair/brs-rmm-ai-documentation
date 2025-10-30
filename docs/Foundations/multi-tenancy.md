@@ -65,6 +65,6 @@ $profile = $memberRepo->fetchProfile($command->clubId(), $command->memberId());
 - Logging sensitive club identifiers without redaction policy
 
 ## See Also
-- [Repository & Caching Strategy](../patterns/repository-and-caching-strategy.md)
-- [Security Overview](../foundations/security-overview.md)
-- [System Architecture](../foundations/system-architecture.md)
+- [Repository & Caching Strategy](../Patterns/repository-and-caching-strategy.md)
+- [Security Overview](../Foundations/security-overview.md)
+- [System Architecture](../Foundations/system-architecture.md)
