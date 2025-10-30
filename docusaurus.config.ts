@@ -2,6 +2,19 @@ import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
+module.exports = {
+  // Your repository name
+  organizationName: 'gn-ehair',
+  projectName: 'brs-rmm-ai-documentation',
+
+  // If your site will be at https://username.github.io/repo
+  url: 'https://gn-ehair.github.io',
+  baseUrl: '/brs-rmm-ai-documentation/',
+
+  // If you're using GitHub Pages
+  deploymentBranch: 'gh-pages',
+};
+
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
