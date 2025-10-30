@@ -5,7 +5,7 @@
   "source": "@site/docs/Foundations/request-lifecycle.md",
   "sourceDirName": "Foundations",
   "slug": "/Foundations/request-lifecycle",
-  "permalink": "/docs/Foundations/request-lifecycle",
+  "permalink": "/brs-rmm-ai-documentation/docs/Foundations/request-lifecycle",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Foundations/request-lifecycle.md",
@@ -13,27 +13,27 @@
     {
       "inline": true,
       "label": "request-lifecycle",
-      "permalink": "/docs/tags/request-lifecycle"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/request-lifecycle"
     },
     {
       "inline": true,
       "label": "http-flow",
-      "permalink": "/docs/tags/http-flow"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/http-flow"
     },
     {
       "inline": true,
       "label": "middleware",
-      "permalink": "/docs/tags/middleware"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/middleware"
     },
     {
       "inline": true,
       "label": "controllers",
-      "permalink": "/docs/tags/controllers"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/controllers"
     },
     {
       "inline": true,
       "label": "processing",
-      "permalink": "/docs/tags/processing"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/processing"
     }
   ],
   "version": "current",
@@ -55,10 +55,10 @@
   "sidebar": "foundationsSidebar",
   "previous": {
     "title": "Multi-Tenancy",
-    "permalink": "/docs/Foundations/multi-tenancy"
+    "permalink": "/brs-rmm-ai-documentation/docs/Foundations/multi-tenancy"
   },
   "next": {
     "title": "Security Overview",
-    "permalink": "/docs/Foundations/security-overview"
+    "permalink": "/brs-rmm-ai-documentation/docs/Foundations/security-overview"
   }
 }

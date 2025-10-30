@@ -5,7 +5,7 @@
   "source": "@site/docs/Data-model/value-objects.md",
   "sourceDirName": "Data-model",
   "slug": "/Data-model/value-objects",
-  "permalink": "/docs/Data-model/value-objects",
+  "permalink": "/brs-rmm-ai-documentation/docs/Data-model/value-objects",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Data-model/value-objects.md",
@@ -13,27 +13,27 @@
     {
       "inline": true,
       "label": "value-objects",
-      "permalink": "/docs/tags/value-objects"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/value-objects"
     },
     {
       "inline": true,
       "label": "immutable-data",
-      "permalink": "/docs/tags/immutable-data"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/immutable-data"
     },
     {
       "inline": true,
       "label": "domain-primitives",
-      "permalink": "/docs/tags/domain-primitives"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/domain-primitives"
     },
     {
       "inline": true,
       "label": "validation",
-      "permalink": "/docs/tags/validation"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/validation"
     },
     {
       "inline": true,
       "label": "type-safety",
-      "permalink": "/docs/tags/type-safety"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/type-safety"
     }
   ],
   "version": "current",
@@ -55,6 +55,6 @@
   "sidebar": "dataModelSidebar",
   "previous": {
     "title": "Domain and Data Shapes",
-    "permalink": "/docs/Data-model/domain-and-data-shapes"
+    "permalink": "/brs-rmm-ai-documentation/docs/Data-model/domain-and-data-shapes"
   }
 }

@@ -2,19 +2,6 @@ import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
-module.exports = {
-  // Your repository name
-  organizationName: 'gn-ehair',
-  projectName: 'brs-rmm-ai-documentation',
-
-  // If your site will be at https://username.github.io/repo
-  url: 'https://gn-ehair.github.io',
-  baseUrl: '/brs-rmm-ai-documentation/',
-
-  // If you're using GitHub Pages
-  deploymentBranch: 'gh-pages',
-};
-
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
@@ -28,15 +15,18 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://gn-ehair.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/brs-rmm-ai-documentation/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'gn-ehair', // Usually your GitHub org/user name.
+  projectName: 'brs-rmm-ai-documentation', // Usually your repo name.
+
+  // GitHub Pages deployment branch
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
 

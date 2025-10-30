@@ -5,7 +5,7 @@
   "source": "@site/docs/Frontend/frontend-architecture.md",
   "sourceDirName": "Frontend",
   "slug": "/Frontend/frontend-architecture",
-  "permalink": "/docs/Frontend/frontend-architecture",
+  "permalink": "/brs-rmm-ai-documentation/docs/Frontend/frontend-architecture",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Frontend/frontend-architecture.md",
@@ -13,27 +13,27 @@
     {
       "inline": true,
       "label": "vue-js",
-      "permalink": "/docs/tags/vue-js"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/vue-js"
     },
     {
       "inline": true,
       "label": "frontend-architecture",
-      "permalink": "/docs/tags/frontend-architecture"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/frontend-architecture"
     },
     {
       "inline": true,
       "label": "components",
-      "permalink": "/docs/tags/components"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/components"
     },
     {
       "inline": true,
       "label": "tailwind-css",
-      "permalink": "/docs/tags/tailwind-css"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/tailwind-css"
     },
     {
       "inline": true,
       "label": "webpack",
-      "permalink": "/docs/tags/webpack"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/webpack"
     }
   ],
   "version": "current",
@@ -55,6 +55,6 @@
   "sidebar": "frontendSidebar",
   "previous": {
     "title": "Events and DOM Communication",
-    "permalink": "/docs/Frontend/events-and-dom-communication"
+    "permalink": "/brs-rmm-ai-documentation/docs/Frontend/events-and-dom-communication"
   }
 }

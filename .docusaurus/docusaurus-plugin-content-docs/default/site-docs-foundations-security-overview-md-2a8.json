@@ -5,7 +5,7 @@
   "source": "@site/docs/Foundations/security-overview.md",
   "sourceDirName": "Foundations",
   "slug": "/Foundations/security-overview",
-  "permalink": "/docs/Foundations/security-overview",
+  "permalink": "/brs-rmm-ai-documentation/docs/Foundations/security-overview",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Foundations/security-overview.md",
@@ -13,27 +13,27 @@
     {
       "inline": true,
       "label": "security",
-      "permalink": "/docs/tags/security"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/security"
     },
     {
       "inline": true,
       "label": "authentication",
-      "permalink": "/docs/tags/authentication"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/authentication"
     },
     {
       "inline": true,
       "label": "authorization",
-      "permalink": "/docs/tags/authorization"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/authorization"
     },
     {
       "inline": true,
       "label": "csrf",
-      "permalink": "/docs/tags/csrf"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/csrf"
     },
     {
       "inline": true,
       "label": "data-protection",
-      "permalink": "/docs/tags/data-protection"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/data-protection"
     }
   ],
   "version": "current",
@@ -55,10 +55,10 @@
   "sidebar": "foundationsSidebar",
   "previous": {
     "title": "Request Lifecycle",
-    "permalink": "/docs/Foundations/request-lifecycle"
+    "permalink": "/brs-rmm-ai-documentation/docs/Foundations/request-lifecycle"
   },
   "next": {
     "title": "System Architecture",
-    "permalink": "/docs/Foundations/system-architecture"
+    "permalink": "/brs-rmm-ai-documentation/docs/Foundations/system-architecture"
   }
 }

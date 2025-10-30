@@ -5,7 +5,7 @@
   "source": "@site/docs/Foundations/system-architecture.md",
   "sourceDirName": "Foundations",
   "slug": "/Foundations/system-architecture",
-  "permalink": "/docs/Foundations/system-architecture",
+  "permalink": "/brs-rmm-ai-documentation/docs/Foundations/system-architecture",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Foundations/system-architecture.md",
@@ -13,27 +13,27 @@
     {
       "inline": true,
       "label": "architecture",
-      "permalink": "/docs/tags/architecture"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/architecture"
     },
     {
       "inline": true,
       "label": "system-design",
-      "permalink": "/docs/tags/system-design"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/system-design"
     },
     {
       "inline": true,
       "label": "components",
-      "permalink": "/docs/tags/components"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/components"
     },
     {
       "inline": true,
       "label": "infrastructure",
-      "permalink": "/docs/tags/infrastructure"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/infrastructure"
     },
     {
       "inline": true,
       "label": "deployment",
-      "permalink": "/docs/tags/deployment"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/deployment"
     }
   ],
   "version": "current",
@@ -55,6 +55,6 @@
   "sidebar": "foundationsSidebar",
   "previous": {
     "title": "Security Overview",
-    "permalink": "/docs/Foundations/security-overview"
+    "permalink": "/brs-rmm-ai-documentation/docs/Foundations/security-overview"
   }
 }

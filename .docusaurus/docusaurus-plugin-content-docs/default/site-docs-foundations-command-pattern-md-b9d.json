@@ -5,7 +5,7 @@
   "source": "@site/docs/Foundations/command-pattern.md",
   "sourceDirName": "Foundations",
   "slug": "/Foundations/command-pattern",
-  "permalink": "/docs/Foundations/command-pattern",
+  "permalink": "/brs-rmm-ai-documentation/docs/Foundations/command-pattern",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Foundations/command-pattern.md",
@@ -13,27 +13,27 @@
     {
       "inline": true,
       "label": "command-pattern",
-      "permalink": "/docs/tags/command-pattern"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/command-pattern"
     },
     {
       "inline": true,
       "label": "cqrs",
-      "permalink": "/docs/tags/cqrs"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/cqrs"
     },
     {
       "inline": true,
       "label": "tactician",
-      "permalink": "/docs/tags/tactician"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/tactician"
     },
     {
       "inline": true,
       "label": "handlers",
-      "permalink": "/docs/tags/handlers"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/handlers"
     },
     {
       "inline": true,
       "label": "separation-of-concerns",
-      "permalink": "/docs/tags/separation-of-concerns"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/separation-of-concerns"
     }
   ],
   "version": "current",
@@ -55,6 +55,6 @@
   "sidebar": "foundationsSidebar",
   "next": {
     "title": "Conventions",
-    "permalink": "/docs/Foundations/conventions"
+    "permalink": "/brs-rmm-ai-documentation/docs/Foundations/conventions"
   }
 }

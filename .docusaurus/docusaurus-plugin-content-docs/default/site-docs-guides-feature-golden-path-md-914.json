@@ -5,7 +5,7 @@
   "source": "@site/docs/Guides/feature-golden-path.md",
   "sourceDirName": "Guides",
   "slug": "/Guides/feature-golden-path",
-  "permalink": "/docs/Guides/feature-golden-path",
+  "permalink": "/brs-rmm-ai-documentation/docs/Guides/feature-golden-path",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Guides/feature-golden-path.md",
@@ -13,22 +13,22 @@
     {
       "inline": true,
       "label": "feature-development",
-      "permalink": "/docs/tags/feature-development"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/feature-development"
     },
     {
       "inline": true,
       "label": "development-workflow",
-      "permalink": "/docs/tags/development-workflow"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/development-workflow"
     },
     {
       "inline": true,
       "label": "golden-path",
-      "permalink": "/docs/tags/golden-path"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/golden-path"
     },
     {
       "inline": true,
       "label": "tutorial",
-      "permalink": "/docs/tags/tutorial"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/tutorial"
     }
   ],
   "version": "current",

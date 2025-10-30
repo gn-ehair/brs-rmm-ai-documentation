@@ -5,7 +5,7 @@
   "source": "@site/docs/Quality/error-and-resilience.md",
   "sourceDirName": "Quality",
   "slug": "/Quality/error-and-resilience",
-  "permalink": "/docs/Quality/error-and-resilience",
+  "permalink": "/brs-rmm-ai-documentation/docs/Quality/error-and-resilience",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Quality/error-and-resilience.md",
@@ -13,27 +13,27 @@
     {
       "inline": true,
       "label": "error-handling",
-      "permalink": "/docs/tags/error-handling"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/error-handling"
     },
     {
       "inline": true,
       "label": "resilience",
-      "permalink": "/docs/tags/resilience"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/resilience"
     },
     {
       "inline": true,
       "label": "fault-tolerance",
-      "permalink": "/docs/tags/fault-tolerance"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/fault-tolerance"
     },
     {
       "inline": true,
       "label": "recovery",
-      "permalink": "/docs/tags/recovery"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/recovery"
     },
     {
       "inline": true,
       "label": "monitoring",
-      "permalink": "/docs/tags/monitoring"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/monitoring"
     }
   ],
   "version": "current",
@@ -55,6 +55,6 @@
   "sidebar": "qualitySidebar",
   "next": {
     "title": "Performance and Observability",
-    "permalink": "/docs/Quality/performance-and-observability"
+    "permalink": "/brs-rmm-ai-documentation/docs/Quality/performance-and-observability"
   }
 }

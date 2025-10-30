@@ -5,7 +5,7 @@
   "source": "@site/docs/Data-model/domain-and-data-shapes.md",
   "sourceDirName": "Data-model",
   "slug": "/Data-model/domain-and-data-shapes",
-  "permalink": "/docs/Data-model/domain-and-data-shapes",
+  "permalink": "/brs-rmm-ai-documentation/docs/Data-model/domain-and-data-shapes",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Data-model/domain-and-data-shapes.md",
@@ -13,27 +13,27 @@
     {
       "inline": true,
       "label": "domain-modeling",
-      "permalink": "/docs/tags/domain-modeling"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/domain-modeling"
     },
     {
       "inline": true,
       "label": "data-structures",
-      "permalink": "/docs/tags/data-structures"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/data-structures"
     },
     {
       "inline": true,
       "label": "entities",
-      "permalink": "/docs/tags/entities"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/entities"
     },
     {
       "inline": true,
       "label": "api-shapes",
-      "permalink": "/docs/tags/api-shapes"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/api-shapes"
     },
     {
       "inline": true,
       "label": "serialization",
-      "permalink": "/docs/tags/serialization"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/serialization"
     }
   ],
   "version": "current",
@@ -55,6 +55,6 @@
   "sidebar": "dataModelSidebar",
   "next": {
     "title": "Value Objects",
-    "permalink": "/docs/Data-model/value-objects"
+    "permalink": "/brs-rmm-ai-documentation/docs/Data-model/value-objects"
   }
 }

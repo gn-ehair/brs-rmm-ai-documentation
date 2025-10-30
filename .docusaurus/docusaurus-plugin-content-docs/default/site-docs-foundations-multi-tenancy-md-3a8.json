@@ -5,7 +5,7 @@
   "source": "@site/docs/Foundations/multi-tenancy.md",
   "sourceDirName": "Foundations",
   "slug": "/Foundations/multi-tenancy",
-  "permalink": "/docs/Foundations/multi-tenancy",
+  "permalink": "/brs-rmm-ai-documentation/docs/Foundations/multi-tenancy",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Foundations/multi-tenancy.md",
@@ -13,22 +13,22 @@
     {
       "inline": true,
       "label": "multi-tenancy",
-      "permalink": "/docs/tags/multi-tenancy"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/multi-tenancy"
     },
     {
       "inline": true,
       "label": "club-isolation",
-      "permalink": "/docs/tags/club-isolation"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/club-isolation"
     },
     {
       "inline": true,
       "label": "data-separation",
-      "permalink": "/docs/tags/data-separation"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/data-separation"
     },
     {
       "inline": true,
       "label": "tenant-management",
-      "permalink": "/docs/tags/tenant-management"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/tenant-management"
     }
   ],
   "version": "current",
@@ -49,10 +49,10 @@
   "sidebar": "foundationsSidebar",
   "previous": {
     "title": "Conventions",
-    "permalink": "/docs/Foundations/conventions"
+    "permalink": "/brs-rmm-ai-documentation/docs/Foundations/conventions"
   },
   "next": {
     "title": "Request Lifecycle",
-    "permalink": "/docs/Foundations/request-lifecycle"
+    "permalink": "/brs-rmm-ai-documentation/docs/Foundations/request-lifecycle"
   }
 }

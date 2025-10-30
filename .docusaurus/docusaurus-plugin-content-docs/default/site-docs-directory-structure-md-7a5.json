@@ -5,7 +5,7 @@
   "source": "@site/docs/directory-structure.md",
   "sourceDirName": ".",
   "slug": "/directory-structure",
-  "permalink": "/docs/directory-structure",
+  "permalink": "/brs-rmm-ai-documentation/docs/directory-structure",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/directory-structure.md",
@@ -13,22 +13,22 @@
     {
       "inline": true,
       "label": "directory-structure",
-      "permalink": "/docs/tags/directory-structure"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/directory-structure"
     },
     {
       "inline": true,
       "label": "codebase",
-      "permalink": "/docs/tags/codebase"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/codebase"
     },
     {
       "inline": true,
       "label": "organization",
-      "permalink": "/docs/tags/organization"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/organization"
     },
     {
       "inline": true,
       "label": "reference",
-      "permalink": "/docs/tags/reference"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/reference"
     }
   ],
   "version": "current",
@@ -49,10 +49,10 @@
   "sidebar": "overviewSidebar",
   "previous": {
     "title": "Dependencies",
-    "permalink": "/docs/dependencies"
+    "permalink": "/brs-rmm-ai-documentation/docs/dependencies"
   },
   "next": {
     "title": "Glossary",
-    "permalink": "/docs/glossary"
+    "permalink": "/brs-rmm-ai-documentation/docs/glossary"
   }
 }

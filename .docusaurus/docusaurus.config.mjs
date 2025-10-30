@@ -28,10 +28,11 @@ export default {
     },
     "experimental_router": "browser"
   },
-  "url": "https://your-docusaurus-site.example.com",
-  "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "url": "https://gn-ehair.github.io",
+  "baseUrl": "/brs-rmm-ai-documentation/",
+  "organizationName": "gn-ehair",
+  "projectName": "brs-rmm-ai-documentation",
+  "deploymentBranch": "gh-pages",
   "onBrokenLinks": "throw",
   "i18n": {
     "defaultLocale": "en",

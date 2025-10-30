@@ -3,671 +3,671 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    path: '/brs-rmm-ai-documentation/__docusaurus/debug',
+    component: ComponentCreator('/brs-rmm-ai-documentation/__docusaurus/debug', '874'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    path: '/brs-rmm-ai-documentation/__docusaurus/debug/config',
+    component: ComponentCreator('/brs-rmm-ai-documentation/__docusaurus/debug/config', 'ce5'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    path: '/brs-rmm-ai-documentation/__docusaurus/debug/content',
+    component: ComponentCreator('/brs-rmm-ai-documentation/__docusaurus/debug/content', '1e5'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    path: '/brs-rmm-ai-documentation/__docusaurus/debug/globalData',
+    component: ComponentCreator('/brs-rmm-ai-documentation/__docusaurus/debug/globalData', 'f24'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    path: '/brs-rmm-ai-documentation/__docusaurus/debug/metadata',
+    component: ComponentCreator('/brs-rmm-ai-documentation/__docusaurus/debug/metadata', '455'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    path: '/brs-rmm-ai-documentation/__docusaurus/debug/registry',
+    component: ComponentCreator('/brs-rmm-ai-documentation/__docusaurus/debug/registry', '87d'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    path: '/brs-rmm-ai-documentation/__docusaurus/debug/routes',
+    component: ComponentCreator('/brs-rmm-ai-documentation/__docusaurus/debug/routes', '422'),
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '3d7'),
+    path: '/brs-rmm-ai-documentation/markdown-page',
+    component: ComponentCreator('/brs-rmm-ai-documentation/markdown-page', 'bc8'),
     exact: true
   },
   {
-    path: '/docs',
-    component: ComponentCreator('/docs', 'a89'),
+    path: '/brs-rmm-ai-documentation/docs',
+    component: ComponentCreator('/brs-rmm-ai-documentation/docs', '439'),
     routes: [
       {
-        path: '/docs',
-        component: ComponentCreator('/docs', '282'),
+        path: '/brs-rmm-ai-documentation/docs',
+        component: ComponentCreator('/brs-rmm-ai-documentation/docs', 'eb8'),
         routes: [
           {
-            path: '/docs/tags',
-            component: ComponentCreator('/docs/tags', 'fce'),
+            path: '/brs-rmm-ai-documentation/docs/tags',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags', '570'),
             exact: true
           },
           {
-            path: '/docs/tags/adr',
-            component: ComponentCreator('/docs/tags/adr', '205'),
+            path: '/brs-rmm-ai-documentation/docs/tags/adr',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/adr', 'da7'),
             exact: true
           },
           {
-            path: '/docs/tags/api-shapes',
-            component: ComponentCreator('/docs/tags/api-shapes', '3fa'),
+            path: '/brs-rmm-ai-documentation/docs/tags/api-shapes',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/api-shapes', '2f8'),
             exact: true
           },
           {
-            path: '/docs/tags/architecture',
-            component: ComponentCreator('/docs/tags/architecture', '926'),
+            path: '/brs-rmm-ai-documentation/docs/tags/architecture',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/architecture', '5b6'),
             exact: true
           },
           {
-            path: '/docs/tags/architecture-decisions',
-            component: ComponentCreator('/docs/tags/architecture-decisions', '267'),
+            path: '/brs-rmm-ai-documentation/docs/tags/architecture-decisions',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/architecture-decisions', '6b5'),
             exact: true
           },
           {
-            path: '/docs/tags/authentication',
-            component: ComponentCreator('/docs/tags/authentication', '195'),
+            path: '/brs-rmm-ai-documentation/docs/tags/authentication',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/authentication', '9d9'),
             exact: true
           },
           {
-            path: '/docs/tags/authorization',
-            component: ComponentCreator('/docs/tags/authorization', 'f88'),
+            path: '/brs-rmm-ai-documentation/docs/tags/authorization',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/authorization', '48f'),
             exact: true
           },
           {
-            path: '/docs/tags/best-practices',
-            component: ComponentCreator('/docs/tags/best-practices', 'd9a'),
+            path: '/brs-rmm-ai-documentation/docs/tags/best-practices',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/best-practices', 'c8a'),
             exact: true
           },
           {
-            path: '/docs/tags/business-logic',
-            component: ComponentCreator('/docs/tags/business-logic', '5ab'),
+            path: '/brs-rmm-ai-documentation/docs/tags/business-logic',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/business-logic', '4e4'),
             exact: true
           },
           {
-            path: '/docs/tags/caching-strategy',
-            component: ComponentCreator('/docs/tags/caching-strategy', 'a2d'),
+            path: '/brs-rmm-ai-documentation/docs/tags/caching-strategy',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/caching-strategy', 'fa2'),
             exact: true
           },
           {
-            path: '/docs/tags/club-isolation',
-            component: ComponentCreator('/docs/tags/club-isolation', '0ef'),
+            path: '/brs-rmm-ai-documentation/docs/tags/club-isolation',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/club-isolation', '7d3'),
             exact: true
           },
           {
-            path: '/docs/tags/codebase',
-            component: ComponentCreator('/docs/tags/codebase', '133'),
+            path: '/brs-rmm-ai-documentation/docs/tags/codebase',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/codebase', 'fa6'),
             exact: true
           },
           {
-            path: '/docs/tags/coding-standards',
-            component: ComponentCreator('/docs/tags/coding-standards', 'ea8'),
+            path: '/brs-rmm-ai-documentation/docs/tags/coding-standards',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/coding-standards', 'c93'),
             exact: true
           },
           {
-            path: '/docs/tags/command-handler-pattern',
-            component: ComponentCreator('/docs/tags/command-handler-pattern', 'f0b'),
+            path: '/brs-rmm-ai-documentation/docs/tags/command-handler-pattern',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/command-handler-pattern', 'fff'),
             exact: true
           },
           {
-            path: '/docs/tags/command-pattern',
-            component: ComponentCreator('/docs/tags/command-pattern', 'cb3'),
+            path: '/brs-rmm-ai-documentation/docs/tags/command-pattern',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/command-pattern', '5fc'),
             exact: true
           },
           {
-            path: '/docs/tags/component-communication',
-            component: ComponentCreator('/docs/tags/component-communication', 'c0a'),
+            path: '/brs-rmm-ai-documentation/docs/tags/component-communication',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/component-communication', '78b'),
             exact: true
           },
           {
-            path: '/docs/tags/components',
-            component: ComponentCreator('/docs/tags/components', '2f9'),
+            path: '/brs-rmm-ai-documentation/docs/tags/components',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/components', '337'),
             exact: true
           },
           {
-            path: '/docs/tags/controllers',
-            component: ComponentCreator('/docs/tags/controllers', '9c9'),
+            path: '/brs-rmm-ai-documentation/docs/tags/controllers',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/controllers', '693'),
             exact: true
           },
           {
-            path: '/docs/tags/cqrs',
-            component: ComponentCreator('/docs/tags/cqrs', '205'),
+            path: '/brs-rmm-ai-documentation/docs/tags/cqrs',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/cqrs', 'a6e'),
             exact: true
           },
           {
-            path: '/docs/tags/csrf',
-            component: ComponentCreator('/docs/tags/csrf', 'c99'),
+            path: '/brs-rmm-ai-documentation/docs/tags/csrf',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/csrf', '9b6'),
             exact: true
           },
           {
-            path: '/docs/tags/data-access',
-            component: ComponentCreator('/docs/tags/data-access', '277'),
+            path: '/brs-rmm-ai-documentation/docs/tags/data-access',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/data-access', 'aa9'),
             exact: true
           },
           {
-            path: '/docs/tags/data-protection',
-            component: ComponentCreator('/docs/tags/data-protection', 'd51'),
+            path: '/brs-rmm-ai-documentation/docs/tags/data-protection',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/data-protection', '895'),
             exact: true
           },
           {
-            path: '/docs/tags/data-separation',
-            component: ComponentCreator('/docs/tags/data-separation', '2c0'),
+            path: '/brs-rmm-ai-documentation/docs/tags/data-separation',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/data-separation', 'efd'),
             exact: true
           },
           {
-            path: '/docs/tags/data-structures',
-            component: ComponentCreator('/docs/tags/data-structures', 'ffc'),
+            path: '/brs-rmm-ai-documentation/docs/tags/data-structures',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/data-structures', '962'),
             exact: true
           },
           {
-            path: '/docs/tags/datadog',
-            component: ComponentCreator('/docs/tags/datadog', '1eb'),
+            path: '/brs-rmm-ai-documentation/docs/tags/datadog',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/datadog', '486'),
             exact: true
           },
           {
-            path: '/docs/tags/decision-records',
-            component: ComponentCreator('/docs/tags/decision-records', 'f36'),
+            path: '/brs-rmm-ai-documentation/docs/tags/decision-records',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/decision-records', 'f8a'),
             exact: true
           },
           {
-            path: '/docs/tags/definitions',
-            component: ComponentCreator('/docs/tags/definitions', '609'),
+            path: '/brs-rmm-ai-documentation/docs/tags/definitions',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/definitions', '633'),
             exact: true
           },
           {
-            path: '/docs/tags/dependencies',
-            component: ComponentCreator('/docs/tags/dependencies', '12f'),
+            path: '/brs-rmm-ai-documentation/docs/tags/dependencies',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/dependencies', '1b0'),
             exact: true
           },
           {
-            path: '/docs/tags/deployment',
-            component: ComponentCreator('/docs/tags/deployment', '6c0'),
+            path: '/brs-rmm-ai-documentation/docs/tags/deployment',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/deployment', '3a8'),
             exact: true
           },
           {
-            path: '/docs/tags/development-workflow',
-            component: ComponentCreator('/docs/tags/development-workflow', '68f'),
+            path: '/brs-rmm-ai-documentation/docs/tags/development-workflow',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/development-workflow', 'e7d'),
             exact: true
           },
           {
-            path: '/docs/tags/directory-structure',
-            component: ComponentCreator('/docs/tags/directory-structure', '042'),
+            path: '/brs-rmm-ai-documentation/docs/tags/directory-structure',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/directory-structure', '292'),
             exact: true
           },
           {
-            path: '/docs/tags/dom-manipulation',
-            component: ComponentCreator('/docs/tags/dom-manipulation', '2ed'),
+            path: '/brs-rmm-ai-documentation/docs/tags/dom-manipulation',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/dom-manipulation', '14d'),
             exact: true
           },
           {
-            path: '/docs/tags/domain-modeling',
-            component: ComponentCreator('/docs/tags/domain-modeling', 'd3a'),
+            path: '/brs-rmm-ai-documentation/docs/tags/domain-modeling',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/domain-modeling', '2b3'),
             exact: true
           },
           {
-            path: '/docs/tags/domain-primitives',
-            component: ComponentCreator('/docs/tags/domain-primitives', '559'),
+            path: '/brs-rmm-ai-documentation/docs/tags/domain-primitives',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/domain-primitives', '4cd'),
             exact: true
           },
           {
-            path: '/docs/tags/entities',
-            component: ComponentCreator('/docs/tags/entities', '3de'),
+            path: '/brs-rmm-ai-documentation/docs/tags/entities',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/entities', '3af'),
             exact: true
           },
           {
-            path: '/docs/tags/error-handling',
-            component: ComponentCreator('/docs/tags/error-handling', '715'),
+            path: '/brs-rmm-ai-documentation/docs/tags/error-handling',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/error-handling', 'fe1'),
             exact: true
           },
           {
-            path: '/docs/tags/event-handling',
-            component: ComponentCreator('/docs/tags/event-handling', '1f5'),
+            path: '/brs-rmm-ai-documentation/docs/tags/event-handling',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/event-handling', '14c'),
             exact: true
           },
           {
-            path: '/docs/tags/fault-tolerance',
-            component: ComponentCreator('/docs/tags/fault-tolerance', 'b3d'),
+            path: '/brs-rmm-ai-documentation/docs/tags/fault-tolerance',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/fault-tolerance', 'dea'),
             exact: true
           },
           {
-            path: '/docs/tags/feature-development',
-            component: ComponentCreator('/docs/tags/feature-development', '503'),
+            path: '/brs-rmm-ai-documentation/docs/tags/feature-development',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/feature-development', '058'),
             exact: true
           },
           {
-            path: '/docs/tags/frontend-architecture',
-            component: ComponentCreator('/docs/tags/frontend-architecture', '835'),
+            path: '/brs-rmm-ai-documentation/docs/tags/frontend-architecture',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/frontend-architecture', '661'),
             exact: true
           },
           {
-            path: '/docs/tags/getting-started',
-            component: ComponentCreator('/docs/tags/getting-started', 'eda'),
+            path: '/brs-rmm-ai-documentation/docs/tags/getting-started',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/getting-started', 'afe'),
             exact: true
           },
           {
-            path: '/docs/tags/glossary',
-            component: ComponentCreator('/docs/tags/glossary', '63a'),
+            path: '/brs-rmm-ai-documentation/docs/tags/glossary',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/glossary', 'e33'),
             exact: true
           },
           {
-            path: '/docs/tags/golden-path',
-            component: ComponentCreator('/docs/tags/golden-path', '827'),
+            path: '/brs-rmm-ai-documentation/docs/tags/golden-path',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/golden-path', 'db6'),
             exact: true
           },
           {
-            path: '/docs/tags/governance',
-            component: ComponentCreator('/docs/tags/governance', '811'),
+            path: '/brs-rmm-ai-documentation/docs/tags/governance',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/governance', '25b'),
             exact: true
           },
           {
-            path: '/docs/tags/handlers',
-            component: ComponentCreator('/docs/tags/handlers', 'f57'),
+            path: '/brs-rmm-ai-documentation/docs/tags/handlers',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/handlers', '418'),
             exact: true
           },
           {
-            path: '/docs/tags/history',
-            component: ComponentCreator('/docs/tags/history', '41c'),
+            path: '/brs-rmm-ai-documentation/docs/tags/history',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/history', 'daf'),
             exact: true
           },
           {
-            path: '/docs/tags/http-flow',
-            component: ComponentCreator('/docs/tags/http-flow', '966'),
+            path: '/brs-rmm-ai-documentation/docs/tags/http-flow',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/http-flow', 'eda'),
             exact: true
           },
           {
-            path: '/docs/tags/immutable-data',
-            component: ComponentCreator('/docs/tags/immutable-data', '52a'),
+            path: '/brs-rmm-ai-documentation/docs/tags/immutable-data',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/immutable-data', '4d4'),
             exact: true
           },
           {
-            path: '/docs/tags/implementation',
-            component: ComponentCreator('/docs/tags/implementation', '0a6'),
+            path: '/brs-rmm-ai-documentation/docs/tags/implementation',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/implementation', 'cb5'),
             exact: true
           },
           {
-            path: '/docs/tags/infrastructure',
-            component: ComponentCreator('/docs/tags/infrastructure', '49b'),
+            path: '/brs-rmm-ai-documentation/docs/tags/infrastructure',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/infrastructure', '01b'),
             exact: true
           },
           {
-            path: '/docs/tags/integration-tests',
-            component: ComponentCreator('/docs/tags/integration-tests', 'c43'),
+            path: '/brs-rmm-ai-documentation/docs/tags/integration-tests',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/integration-tests', '77f'),
             exact: true
           },
           {
-            path: '/docs/tags/introduction',
-            component: ComponentCreator('/docs/tags/introduction', '1be'),
+            path: '/brs-rmm-ai-documentation/docs/tags/introduction',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/introduction', '6bb'),
             exact: true
           },
           {
-            path: '/docs/tags/jquery',
-            component: ComponentCreator('/docs/tags/jquery', '54b'),
+            path: '/brs-rmm-ai-documentation/docs/tags/jquery',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/jquery', 'bb4'),
             exact: true
           },
           {
-            path: '/docs/tags/libraries',
-            component: ComponentCreator('/docs/tags/libraries', '96c'),
+            path: '/brs-rmm-ai-documentation/docs/tags/libraries',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/libraries', '8ce'),
             exact: true
           },
           {
-            path: '/docs/tags/metrics',
-            component: ComponentCreator('/docs/tags/metrics', '3db'),
+            path: '/brs-rmm-ai-documentation/docs/tags/metrics',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/metrics', '873'),
             exact: true
           },
           {
-            path: '/docs/tags/middleware',
-            component: ComponentCreator('/docs/tags/middleware', 'c0f'),
+            path: '/brs-rmm-ai-documentation/docs/tags/middleware',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/middleware', '836'),
             exact: true
           },
           {
-            path: '/docs/tags/monitoring',
-            component: ComponentCreator('/docs/tags/monitoring', '833'),
+            path: '/brs-rmm-ai-documentation/docs/tags/monitoring',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/monitoring', '046'),
             exact: true
           },
           {
-            path: '/docs/tags/multi-tenancy',
-            component: ComponentCreator('/docs/tags/multi-tenancy', '6e3'),
+            path: '/brs-rmm-ai-documentation/docs/tags/multi-tenancy',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/multi-tenancy', 'e64'),
             exact: true
           },
           {
-            path: '/docs/tags/naming-conventions',
-            component: ComponentCreator('/docs/tags/naming-conventions', '65d'),
+            path: '/brs-rmm-ai-documentation/docs/tags/naming-conventions',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/naming-conventions', '5d0'),
             exact: true
           },
           {
-            path: '/docs/tags/navigation',
-            component: ComponentCreator('/docs/tags/navigation', 'ef9'),
+            path: '/brs-rmm-ai-documentation/docs/tags/navigation',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/navigation', 'cf4'),
             exact: true
           },
           {
-            path: '/docs/tags/observability',
-            component: ComponentCreator('/docs/tags/observability', '84a'),
+            path: '/brs-rmm-ai-documentation/docs/tags/observability',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/observability', '4f8'),
             exact: true
           },
           {
-            path: '/docs/tags/organization',
-            component: ComponentCreator('/docs/tags/organization', '909'),
+            path: '/brs-rmm-ai-documentation/docs/tags/organization',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/organization', '21f'),
             exact: true
           },
           {
-            path: '/docs/tags/overview',
-            component: ComponentCreator('/docs/tags/overview', '24f'),
+            path: '/brs-rmm-ai-documentation/docs/tags/overview',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/overview', '70b'),
             exact: true
           },
           {
-            path: '/docs/tags/packages',
-            component: ComponentCreator('/docs/tags/packages', '1a2'),
+            path: '/brs-rmm-ai-documentation/docs/tags/packages',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/packages', '6d2'),
             exact: true
           },
           {
-            path: '/docs/tags/performance',
-            component: ComponentCreator('/docs/tags/performance', '427'),
+            path: '/brs-rmm-ai-documentation/docs/tags/performance',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/performance', 'd85'),
             exact: true
           },
           {
-            path: '/docs/tags/performance-optimization',
-            component: ComponentCreator('/docs/tags/performance-optimization', '503'),
+            path: '/brs-rmm-ai-documentation/docs/tags/performance-optimization',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/performance-optimization', '866'),
             exact: true
           },
           {
-            path: '/docs/tags/phpunit',
-            component: ComponentCreator('/docs/tags/phpunit', 'f21'),
+            path: '/brs-rmm-ai-documentation/docs/tags/phpunit',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/phpunit', '76d'),
             exact: true
           },
           {
-            path: '/docs/tags/processing',
-            component: ComponentCreator('/docs/tags/processing', 'd28'),
+            path: '/brs-rmm-ai-documentation/docs/tags/processing',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/processing', '6e1'),
             exact: true
           },
           {
-            path: '/docs/tags/quality-assurance',
-            component: ComponentCreator('/docs/tags/quality-assurance', '6ee'),
+            path: '/brs-rmm-ai-documentation/docs/tags/quality-assurance',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/quality-assurance', '956'),
             exact: true
           },
           {
-            path: '/docs/tags/recovery',
-            component: ComponentCreator('/docs/tags/recovery', 'dff'),
+            path: '/brs-rmm-ai-documentation/docs/tags/recovery',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/recovery', '084'),
             exact: true
           },
           {
-            path: '/docs/tags/redis',
-            component: ComponentCreator('/docs/tags/redis', '07c'),
+            path: '/brs-rmm-ai-documentation/docs/tags/redis',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/redis', '796'),
             exact: true
           },
           {
-            path: '/docs/tags/reference',
-            component: ComponentCreator('/docs/tags/reference', '00b'),
+            path: '/brs-rmm-ai-documentation/docs/tags/reference',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/reference', '00a'),
             exact: true
           },
           {
-            path: '/docs/tags/repository-pattern',
-            component: ComponentCreator('/docs/tags/repository-pattern', '865'),
+            path: '/brs-rmm-ai-documentation/docs/tags/repository-pattern',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/repository-pattern', 'ce6'),
             exact: true
           },
           {
-            path: '/docs/tags/request-lifecycle',
-            component: ComponentCreator('/docs/tags/request-lifecycle', 'c60'),
+            path: '/brs-rmm-ai-documentation/docs/tags/request-lifecycle',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/request-lifecycle', 'ad7'),
             exact: true
           },
           {
-            path: '/docs/tags/resilience',
-            component: ComponentCreator('/docs/tags/resilience', 'a8f'),
+            path: '/brs-rmm-ai-documentation/docs/tags/resilience',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/resilience', 'e34'),
             exact: true
           },
           {
-            path: '/docs/tags/roadmap',
-            component: ComponentCreator('/docs/tags/roadmap', 'f70'),
+            path: '/brs-rmm-ai-documentation/docs/tags/roadmap',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/roadmap', '059'),
             exact: true
           },
           {
-            path: '/docs/tags/security',
-            component: ComponentCreator('/docs/tags/security', '056'),
+            path: '/brs-rmm-ai-documentation/docs/tags/security',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/security', '090'),
             exact: true
           },
           {
-            path: '/docs/tags/separation-of-concerns',
-            component: ComponentCreator('/docs/tags/separation-of-concerns', '7d3'),
+            path: '/brs-rmm-ai-documentation/docs/tags/separation-of-concerns',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/separation-of-concerns', '7c5'),
             exact: true
           },
           {
-            path: '/docs/tags/serialization',
-            component: ComponentCreator('/docs/tags/serialization', '9b2'),
+            path: '/brs-rmm-ai-documentation/docs/tags/serialization',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/serialization', '76b'),
             exact: true
           },
           {
-            path: '/docs/tags/style-guide',
-            component: ComponentCreator('/docs/tags/style-guide', 'ca4'),
+            path: '/brs-rmm-ai-documentation/docs/tags/style-guide',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/style-guide', 'add'),
             exact: true
           },
           {
-            path: '/docs/tags/symfony',
-            component: ComponentCreator('/docs/tags/symfony', 'cbd'),
+            path: '/brs-rmm-ai-documentation/docs/tags/symfony',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/symfony', '603'),
             exact: true
           },
           {
-            path: '/docs/tags/system-design',
-            component: ComponentCreator('/docs/tags/system-design', '005'),
+            path: '/brs-rmm-ai-documentation/docs/tags/system-design',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/system-design', 'fc9'),
             exact: true
           },
           {
-            path: '/docs/tags/tactician',
-            component: ComponentCreator('/docs/tags/tactician', '9ad'),
+            path: '/brs-rmm-ai-documentation/docs/tags/tactician',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/tactician', 'a70'),
             exact: true
           },
           {
-            path: '/docs/tags/tailwind-css',
-            component: ComponentCreator('/docs/tags/tailwind-css', '7e1'),
+            path: '/brs-rmm-ai-documentation/docs/tags/tailwind-css',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/tailwind-css', 'cce'),
             exact: true
           },
           {
-            path: '/docs/tags/tenant-management',
-            component: ComponentCreator('/docs/tags/tenant-management', '11b'),
+            path: '/brs-rmm-ai-documentation/docs/tags/tenant-management',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/tenant-management', 'f1e'),
             exact: true
           },
           {
-            path: '/docs/tags/terminology',
-            component: ComponentCreator('/docs/tags/terminology', '137'),
+            path: '/brs-rmm-ai-documentation/docs/tags/terminology',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/terminology', '769'),
             exact: true
           },
           {
-            path: '/docs/tags/testing-strategy',
-            component: ComponentCreator('/docs/tags/testing-strategy', 'e52'),
+            path: '/brs-rmm-ai-documentation/docs/tags/testing-strategy',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/testing-strategy', 'f0d'),
             exact: true
           },
           {
-            path: '/docs/tags/tools',
-            component: ComponentCreator('/docs/tags/tools', '669'),
+            path: '/brs-rmm-ai-documentation/docs/tags/tools',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/tools', 'e91'),
             exact: true
           },
           {
-            path: '/docs/tags/tutorial',
-            component: ComponentCreator('/docs/tags/tutorial', '71f'),
+            path: '/brs-rmm-ai-documentation/docs/tags/tutorial',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/tutorial', 'cf2'),
             exact: true
           },
           {
-            path: '/docs/tags/type-safety',
-            component: ComponentCreator('/docs/tags/type-safety', '341'),
+            path: '/brs-rmm-ai-documentation/docs/tags/type-safety',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/type-safety', '4b7'),
             exact: true
           },
           {
-            path: '/docs/tags/unit-tests',
-            component: ComponentCreator('/docs/tags/unit-tests', 'cca'),
+            path: '/brs-rmm-ai-documentation/docs/tags/unit-tests',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/unit-tests', '093'),
             exact: true
           },
           {
-            path: '/docs/tags/use-cases',
-            component: ComponentCreator('/docs/tags/use-cases', 'f71'),
+            path: '/brs-rmm-ai-documentation/docs/tags/use-cases',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/use-cases', '87d'),
             exact: true
           },
           {
-            path: '/docs/tags/validation',
-            component: ComponentCreator('/docs/tags/validation', 'a17'),
+            path: '/brs-rmm-ai-documentation/docs/tags/validation',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/validation', 'fa5'),
             exact: true
           },
           {
-            path: '/docs/tags/value-objects',
-            component: ComponentCreator('/docs/tags/value-objects', '3cd'),
+            path: '/brs-rmm-ai-documentation/docs/tags/value-objects',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/value-objects', '947'),
             exact: true
           },
           {
-            path: '/docs/tags/vue',
-            component: ComponentCreator('/docs/tags/vue', '819'),
+            path: '/brs-rmm-ai-documentation/docs/tags/vue',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/vue', '78d'),
             exact: true
           },
           {
-            path: '/docs/tags/vue-js',
-            component: ComponentCreator('/docs/tags/vue-js', '311'),
+            path: '/brs-rmm-ai-documentation/docs/tags/vue-js',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/vue-js', '4ba'),
             exact: true
           },
           {
-            path: '/docs/tags/webpack',
-            component: ComponentCreator('/docs/tags/webpack', 'c51'),
+            path: '/brs-rmm-ai-documentation/docs/tags/webpack',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs/tags/webpack', 'c6f'),
             exact: true
           },
           {
-            path: '/docs',
-            component: ComponentCreator('/docs', '730'),
+            path: '/brs-rmm-ai-documentation/docs',
+            component: ComponentCreator('/brs-rmm-ai-documentation/docs', '2ec'),
             routes: [
               {
-                path: '/docs/',
-                component: ComponentCreator('/docs/', '12e'),
+                path: '/brs-rmm-ai-documentation/docs/',
+                component: ComponentCreator('/brs-rmm-ai-documentation/docs/', 'b4b'),
                 exact: true,
                 sidebar: "overviewSidebar"
               },
               {
-                path: '/docs/Data-model/domain-and-data-shapes',
-                component: ComponentCreator('/docs/Data-model/domain-and-data-shapes', '8ea'),
+                path: '/brs-rmm-ai-documentation/docs/Data-model/domain-and-data-shapes',
+                component: ComponentCreator('/brs-rmm-ai-documentation/docs/Data-model/domain-and-data-shapes', '929'),
                 exact: true,
                 sidebar: "dataModelSidebar"
               },
               {
-                path: '/docs/Data-model/value-objects',
-                component: ComponentCreator('/docs/Data-model/value-objects', '821'),
+                path: '/brs-rmm-ai-documentation/docs/Data-model/value-objects',
+                component: ComponentCreator('/brs-rmm-ai-documentation/docs/Data-model/value-objects', '816'),
                 exact: true,
                 sidebar: "dataModelSidebar"
               },
               {
-                path: '/docs/dependencies',
-                component: ComponentCreator('/docs/dependencies', '226'),
+                path: '/brs-rmm-ai-documentation/docs/dependencies',
+                component: ComponentCreator('/brs-rmm-ai-documentation/docs/dependencies', '90e'),
                 exact: true,
                 sidebar: "overviewSidebar"
               },
               {
-                path: '/docs/directory-structure',
-                component: ComponentCreator('/docs/directory-structure', 'c85'),
+                path: '/brs-rmm-ai-documentation/docs/directory-structure',
+                component: ComponentCreator('/brs-rmm-ai-documentation/docs/directory-structure', 'ff8'),
                 exact: true,
                 sidebar: "overviewSidebar"
               },
               {
-                path: '/docs/Foundations/command-pattern',
-                component: ComponentCreator('/docs/Foundations/command-pattern', '67d'),
+                path: '/brs-rmm-ai-documentation/docs/Foundations/command-pattern',
+                component: ComponentCreator('/brs-rmm-ai-documentation/docs/Foundations/command-pattern', '74e'),
                 exact: true,
                 sidebar: "foundationsSidebar"
               },
               {
-                path: '/docs/Foundations/conventions',
-                component: ComponentCreator('/docs/Foundations/conventions', '5f5'),
+                path: '/brs-rmm-ai-documentation/docs/Foundations/conventions',
+                component: ComponentCreator('/brs-rmm-ai-documentation/docs/Foundations/conventions', '01c'),
                 exact: true,
                 sidebar: "foundationsSidebar"
               },
               {
-                path: '/docs/Foundations/multi-tenancy',
-                component: ComponentCreator('/docs/Foundations/multi-tenancy', '073'),
+                path: '/brs-rmm-ai-documentation/docs/Foundations/multi-tenancy',
+                component: ComponentCreator('/brs-rmm-ai-documentation/docs/Foundations/multi-tenancy', '46c'),
                 exact: true,
                 sidebar: "foundationsSidebar"
               },
               {
-                path: '/docs/Foundations/request-lifecycle',
-                component: ComponentCreator('/docs/Foundations/request-lifecycle', '5e0'),
+                path: '/brs-rmm-ai-documentation/docs/Foundations/request-lifecycle',
+                component: ComponentCreator('/brs-rmm-ai-documentation/docs/Foundations/request-lifecycle', 'ffa'),
                 exact: true,
                 sidebar: "foundationsSidebar"
               },
               {
-                path: '/docs/Foundations/security-overview',
-                component: ComponentCreator('/docs/Foundations/security-overview', '6a8'),
+                path: '/brs-rmm-ai-documentation/docs/Foundations/security-overview',
+                component: ComponentCreator('/brs-rmm-ai-documentation/docs/Foundations/security-overview', 'afe'),
                 exact: true,
                 sidebar: "foundationsSidebar"
               },
               {
-                path: '/docs/Foundations/system-architecture',
-                component: ComponentCreator('/docs/Foundations/system-architecture', '7df'),
+                path: '/brs-rmm-ai-documentation/docs/Foundations/system-architecture',
+                component: ComponentCreator('/brs-rmm-ai-documentation/docs/Foundations/system-architecture', '4c3'),
                 exact: true,
                 sidebar: "foundationsSidebar"
               },
               {
-                path: '/docs/Frontend/events-and-dom-communication',
-                component: ComponentCreator('/docs/Frontend/events-and-dom-communication', '500'),
+                path: '/brs-rmm-ai-documentation/docs/Frontend/events-and-dom-communication',
+                component: ComponentCreator('/brs-rmm-ai-documentation/docs/Frontend/events-and-dom-communication', 'cf6'),
                 exact: true,
                 sidebar: "frontendSidebar"
               },
               {
-                path: '/docs/Frontend/frontend-architecture',
-                component: ComponentCreator('/docs/Frontend/frontend-architecture', 'cca'),
+                path: '/brs-rmm-ai-documentation/docs/Frontend/frontend-architecture',
+                component: ComponentCreator('/brs-rmm-ai-documentation/docs/Frontend/frontend-architecture', 'b48'),
                 exact: true,
                 sidebar: "frontendSidebar"
               },
               {
-                path: '/docs/glossary',
-                component: ComponentCreator('/docs/glossary', 'ce1'),
+                path: '/brs-rmm-ai-documentation/docs/glossary',
+                component: ComponentCreator('/brs-rmm-ai-documentation/docs/glossary', '294'),
                 exact: true,
                 sidebar: "overviewSidebar"
               },
               {
-                path: '/docs/Guides/feature-golden-path',
-                component: ComponentCreator('/docs/Guides/feature-golden-path', '7e3'),
+                path: '/brs-rmm-ai-documentation/docs/Guides/feature-golden-path',
+                component: ComponentCreator('/brs-rmm-ai-documentation/docs/Guides/feature-golden-path', 'b5d'),
                 exact: true,
                 sidebar: "guidesSidebar"
               },
               {
-                path: '/docs/Operations/adr-index',
-                component: ComponentCreator('/docs/Operations/adr-index', '31f'),
+                path: '/brs-rmm-ai-documentation/docs/Operations/adr-index',
+                component: ComponentCreator('/brs-rmm-ai-documentation/docs/Operations/adr-index', '856'),
                 exact: true,
                 sidebar: "operationsSidebar"
               },
               {
-                path: '/docs/overview',
-                component: ComponentCreator('/docs/overview', 'f91'),
+                path: '/brs-rmm-ai-documentation/docs/overview',
+                component: ComponentCreator('/brs-rmm-ai-documentation/docs/overview', '203'),
                 exact: true,
                 sidebar: "overviewSidebar"
               },
               {
-                path: '/docs/Patterns/commands-and-handlers',
-                component: ComponentCreator('/docs/Patterns/commands-and-handlers', '2d4'),
+                path: '/brs-rmm-ai-documentation/docs/Patterns/commands-and-handlers',
+                component: ComponentCreator('/brs-rmm-ai-documentation/docs/Patterns/commands-and-handlers', 'de7'),
                 exact: true,
                 sidebar: "patternsSidebar"
               },
               {
-                path: '/docs/Patterns/repository-and-caching-strategy',
-                component: ComponentCreator('/docs/Patterns/repository-and-caching-strategy', '3ac'),
+                path: '/brs-rmm-ai-documentation/docs/Patterns/repository-and-caching-strategy',
+                component: ComponentCreator('/brs-rmm-ai-documentation/docs/Patterns/repository-and-caching-strategy', '921'),
                 exact: true,
                 sidebar: "patternsSidebar"
               },
               {
-                path: '/docs/Quality/error-and-resilience',
-                component: ComponentCreator('/docs/Quality/error-and-resilience', '743'),
+                path: '/brs-rmm-ai-documentation/docs/Quality/error-and-resilience',
+                component: ComponentCreator('/brs-rmm-ai-documentation/docs/Quality/error-and-resilience', '285'),
                 exact: true,
                 sidebar: "qualitySidebar"
               },
               {
-                path: '/docs/Quality/performance-and-observability',
-                component: ComponentCreator('/docs/Quality/performance-and-observability', 'c78'),
+                path: '/brs-rmm-ai-documentation/docs/Quality/performance-and-observability',
+                component: ComponentCreator('/brs-rmm-ai-documentation/docs/Quality/performance-and-observability', '10a'),
                 exact: true,
                 sidebar: "qualitySidebar"
               },
               {
-                path: '/docs/Quality/testing-strategy',
-                component: ComponentCreator('/docs/Quality/testing-strategy', '01a'),
+                path: '/brs-rmm-ai-documentation/docs/Quality/testing-strategy',
+                component: ComponentCreator('/brs-rmm-ai-documentation/docs/Quality/testing-strategy', '9cc'),
                 exact: true,
                 sidebar: "qualitySidebar"
               }
@@ -678,8 +678,8 @@ export default [
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', 'e5f'),
+    path: '/brs-rmm-ai-documentation/',
+    component: ComponentCreator('/brs-rmm-ai-documentation/', 'f35'),
     exact: true
   },
   {

@@ -5,7 +5,7 @@
   "source": "@site/docs/README.md",
   "sourceDirName": ".",
   "slug": "/",
-  "permalink": "/docs/",
+  "permalink": "/brs-rmm-ai-documentation/docs/",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/README.md",
@@ -13,22 +13,22 @@
     {
       "inline": true,
       "label": "getting-started",
-      "permalink": "/docs/tags/getting-started"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/getting-started"
     },
     {
       "inline": true,
       "label": "navigation",
-      "permalink": "/docs/tags/navigation"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/navigation"
     },
     {
       "inline": true,
       "label": "introduction",
-      "permalink": "/docs/tags/introduction"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/introduction"
     },
     {
       "inline": true,
       "label": "roadmap",
-      "permalink": "/docs/tags/roadmap"
+      "permalink": "/brs-rmm-ai-documentation/docs/tags/roadmap"
     }
   ],
   "version": "current",
@@ -51,10 +51,10 @@
   "sidebar": "overviewSidebar",
   "previous": {
     "title": "System Architecture Overview",
-    "permalink": "/docs/overview"
+    "permalink": "/brs-rmm-ai-documentation/docs/overview"
   },
   "next": {
     "title": "Dependencies",
-    "permalink": "/docs/dependencies"
+    "permalink": "/brs-rmm-ai-documentation/docs/dependencies"
   }
 }
