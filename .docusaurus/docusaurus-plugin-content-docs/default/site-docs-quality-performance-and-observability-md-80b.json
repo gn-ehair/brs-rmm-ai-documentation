@@ -1,0 +1,64 @@
+{
+  "id": "Quality/performance-and-observability",
+  "title": "Performance and Observability",
+  "description": "Purpose",
+  "source": "@site/docs/Quality/performance-and-observability.md",
+  "sourceDirName": "Quality",
+  "slug": "/Quality/performance-and-observability",
+  "permalink": "/docs/Quality/performance-and-observability",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Quality/performance-and-observability.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "performance-optimization",
+      "permalink": "/docs/tags/performance-optimization"
+    },
+    {
+      "inline": true,
+      "label": "observability",
+      "permalink": "/docs/tags/observability"
+    },
+    {
+      "inline": true,
+      "label": "monitoring",
+      "permalink": "/docs/tags/monitoring"
+    },
+    {
+      "inline": true,
+      "label": "metrics",
+      "permalink": "/docs/tags/metrics"
+    },
+    {
+      "inline": true,
+      "label": "datadog",
+      "permalink": "/docs/tags/datadog"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "status": "draft",
+    "lastReviewed": "2025-10-08T00:00:00.000Z",
+    "owner": "members-module-team",
+    "category": "quality",
+    "tags": [
+      "performance-optimization",
+      "observability",
+      "monitoring",
+      "metrics",
+      "datadog"
+    ]
+  },
+  "sidebar": "qualitySidebar",
+  "previous": {
+    "title": "Error and Resilience",
+    "permalink": "/docs/Quality/error-and-resilience"
+  },
+  "next": {
+    "title": "Testing Strategy",
+    "permalink": "/docs/Quality/testing-strategy"
+  }
+}

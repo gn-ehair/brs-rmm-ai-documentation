@@ -1,0 +1,60 @@
+{
+  "id": "Patterns/repository-and-caching-strategy",
+  "title": "Repository and Caching Strategy",
+  "description": "Purpose",
+  "source": "@site/docs/Patterns/repository-and-caching-strategy.md",
+  "sourceDirName": "Patterns",
+  "slug": "/Patterns/repository-and-caching-strategy",
+  "permalink": "/docs/Patterns/repository-and-caching-strategy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Patterns/repository-and-caching-strategy.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "repository-pattern",
+      "permalink": "/docs/tags/repository-pattern"
+    },
+    {
+      "inline": true,
+      "label": "caching-strategy",
+      "permalink": "/docs/tags/caching-strategy"
+    },
+    {
+      "inline": true,
+      "label": "data-access",
+      "permalink": "/docs/tags/data-access"
+    },
+    {
+      "inline": true,
+      "label": "redis",
+      "permalink": "/docs/tags/redis"
+    },
+    {
+      "inline": true,
+      "label": "performance",
+      "permalink": "/docs/tags/performance"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "status": "draft",
+    "lastReviewed": "2025-10-08T00:00:00.000Z",
+    "owner": "members-module-team",
+    "category": "patterns",
+    "tags": [
+      "repository-pattern",
+      "caching-strategy",
+      "data-access",
+      "redis",
+      "performance"
+    ]
+  },
+  "sidebar": "patternsSidebar",
+  "previous": {
+    "title": "Commands and Handlers",
+    "permalink": "/docs/Patterns/commands-and-handlers"
+  }
+}

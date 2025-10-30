@@ -1,0 +1,44 @@
+{
+  "id": "architecture/patterns/repository-and-caching-strategy",
+  "title": "Repository and Caching Strategy",
+  "description": "Purpose",
+  "source": "@site/docs/architecture/patterns/repository-and-caching-strategy.md",
+  "sourceDirName": "architecture/patterns",
+  "slug": "/architecture/patterns/repository-and-caching-strategy",
+  "permalink": "/docs/architecture/patterns/repository-and-caching-strategy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/architecture/patterns/repository-and-caching-strategy.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "repository",
+      "permalink": "/docs/tags/repository"
+    },
+    {
+      "inline": true,
+      "label": "caching",
+      "permalink": "/docs/tags/caching"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "status": "draft",
+    "lastReviewed": "2025-10-08T00:00:00.000Z",
+    "owner": "members-module-team",
+    "category": "patterns",
+    "tags": [
+      "repository",
+      "caching"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Commands and Handlers",
+    "permalink": "/docs/architecture/patterns/commands-and-handlers"
+  },
+  "next": {
+    "title": "Error and Resilience",
+    "permalink": "/docs/architecture/quality/error-and-resilience"
+  }
+}

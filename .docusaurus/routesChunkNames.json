@@ -1,0 +1,548 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/markdown-page-3d7": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-pagea-74-7b5"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/docs-a89": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsaba-d7c"
+    }
+  },
+  "/docs-282": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
+  },
+  "/docs/tags-fce": {
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__props": "__props---docs-tags-898-65c"
+  },
+  "/docs/tags/adr-205": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-adr-3-ac-b57"
+  },
+  "/docs/tags/api-shapes-3fa": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-api-shapes-808-768"
+  },
+  "/docs/tags/architecture-926": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-architecture-7-de-e73"
+  },
+  "/docs/tags/architecture-decisions-267": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-architecture-decisionsddd-984"
+  },
+  "/docs/tags/authentication-195": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-authenticationc-7-c-aea"
+  },
+  "/docs/tags/authorization-f88": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-authorization-495-e64"
+  },
+  "/docs/tags/best-practices-d9a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-best-practices-247-8e7"
+  },
+  "/docs/tags/business-logic-5ab": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-business-logic-39-b-886"
+  },
+  "/docs/tags/caching-strategy-a2d": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-caching-strategy-299-02e"
+  },
+  "/docs/tags/club-isolation-0ef": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-club-isolation-23-c-c2e"
+  },
+  "/docs/tags/codebase-133": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-codebase-248-f58"
+  },
+  "/docs/tags/coding-standards-ea8": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-coding-standards-007-7fb"
+  },
+  "/docs/tags/command-handler-pattern-f0b": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-command-handler-pattern-21-e-411"
+  },
+  "/docs/tags/command-pattern-cb3": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-command-patterne-52-d73"
+  },
+  "/docs/tags/component-communication-c0a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-component-communicationb-95-8b0"
+  },
+  "/docs/tags/components-2f9": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-components-710-579"
+  },
+  "/docs/tags/controllers-9c9": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-controllers-013-74e"
+  },
+  "/docs/tags/cqrs-205": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-cqrs-751-72e"
+  },
+  "/docs/tags/csrf-c99": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-csrf-161-c07"
+  },
+  "/docs/tags/data-access-277": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-data-access-85-b-0fc"
+  },
+  "/docs/tags/data-protection-d51": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-data-protectionf-27-d65"
+  },
+  "/docs/tags/data-separation-2c0": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-data-separationfe-2-e3e"
+  },
+  "/docs/tags/data-structures-ffc": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-data-structuresca-2-02f"
+  },
+  "/docs/tags/datadog-1eb": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-datadog-9-c-3-496"
+  },
+  "/docs/tags/decision-records-f36": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-decision-records-491-a18"
+  },
+  "/docs/tags/definitions-609": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-definitions-6-de-212"
+  },
+  "/docs/tags/dependencies-12f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-dependenciesac-2-7d8"
+  },
+  "/docs/tags/deployment-6c0": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-deploymenta-15-c9d"
+  },
+  "/docs/tags/development-workflow-68f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-development-workflow-191-3e3"
+  },
+  "/docs/tags/directory-structure-042": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-directory-structure-5-c-2-d2c"
+  },
+  "/docs/tags/dom-manipulation-2ed": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-dom-manipulation-968-96c"
+  },
+  "/docs/tags/domain-modeling-d3a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-domain-modeling-551-aa0"
+  },
+  "/docs/tags/domain-primitives-559": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-domain-primitivesbc-9-a82"
+  },
+  "/docs/tags/entities-3de": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-entities-978-a77"
+  },
+  "/docs/tags/error-handling-715": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-error-handling-9-fb-2fd"
+  },
+  "/docs/tags/event-handling-1f5": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-event-handling-500-765"
+  },
+  "/docs/tags/fault-tolerance-b3d": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-fault-tolerance-954-77f"
+  },
+  "/docs/tags/feature-development-503": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-feature-development-5-f-5-568"
+  },
+  "/docs/tags/frontend-architecture-835": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-frontend-architectured-85-09c"
+  },
+  "/docs/tags/getting-started-eda": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-getting-startedd-48-353"
+  },
+  "/docs/tags/glossary-63a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-glossaryda-0-8bc"
+  },
+  "/docs/tags/golden-path-827": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-golden-patha-7-b-7df"
+  },
+  "/docs/tags/governance-811": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-governance-005-25d"
+  },
+  "/docs/tags/handlers-f57": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-handlers-485-3c1"
+  },
+  "/docs/tags/history-41c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-historyd-8-f-9a6"
+  },
+  "/docs/tags/http-flow-966": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-http-flowcd-7-0c1"
+  },
+  "/docs/tags/immutable-data-52a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-immutable-data-368-01b"
+  },
+  "/docs/tags/implementation-0a6": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-implementationf-4-b-bf3"
+  },
+  "/docs/tags/infrastructure-49b": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-infrastructuree-00-561"
+  },
+  "/docs/tags/integration-tests-c43": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-integration-tests-732-279"
+  },
+  "/docs/tags/introduction-1be": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-introduction-1-af-c73"
+  },
+  "/docs/tags/jquery-54b": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-jquery-2-c-9-784"
+  },
+  "/docs/tags/libraries-96c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-librariesb-2-f-ad6"
+  },
+  "/docs/tags/metrics-3db": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-metricsd-6-c-1c6"
+  },
+  "/docs/tags/middleware-c0f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-middleware-234-25f"
+  },
+  "/docs/tags/monitoring-833": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-monitoring-049-5ae"
+  },
+  "/docs/tags/multi-tenancy-6e3": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-multi-tenancy-454-f14"
+  },
+  "/docs/tags/naming-conventions-65d": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-naming-conventionsd-02-286"
+  },
+  "/docs/tags/navigation-ef9": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-navigationf-22-d1d"
+  },
+  "/docs/tags/observability-84a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-observabilityfc-4-1f4"
+  },
+  "/docs/tags/organization-909": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-organization-552-977"
+  },
+  "/docs/tags/overview-24f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-overview-306-07f"
+  },
+  "/docs/tags/packages-1a2": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-packagesdf-6-4cc"
+  },
+  "/docs/tags/performance-427": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-performance-21-c-134"
+  },
+  "/docs/tags/performance-optimization-503": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-performance-optimizationbca-318"
+  },
+  "/docs/tags/phpunit-f21": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-phpunit-241-30e"
+  },
+  "/docs/tags/processing-d28": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-processing-845-a80"
+  },
+  "/docs/tags/quality-assurance-6ee": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-quality-assurance-2-e-0-cb2"
+  },
+  "/docs/tags/recovery-dff": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-recoveryb-2-d-af8"
+  },
+  "/docs/tags/redis-07c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-redis-8-ea-518"
+  },
+  "/docs/tags/reference-00b": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-reference-154-085"
+  },
+  "/docs/tags/repository-pattern-865": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-repository-pattern-0-e-7-f19"
+  },
+  "/docs/tags/request-lifecycle-c60": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-request-lifecyclec-7-c-ced"
+  },
+  "/docs/tags/resilience-a8f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-resilience-4-f-1-ed2"
+  },
+  "/docs/tags/roadmap-f70": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-roadmap-9-bb-716"
+  },
+  "/docs/tags/security-056": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-security-1-d-1-e24"
+  },
+  "/docs/tags/separation-of-concerns-7d3": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-separation-of-concernsc-59-46b"
+  },
+  "/docs/tags/serialization-9b2": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-serializationad-1-98c"
+  },
+  "/docs/tags/style-guide-ca4": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-style-guide-28-e-bef"
+  },
+  "/docs/tags/symfony-cbd": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-symfony-706-aca"
+  },
+  "/docs/tags/system-design-005": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-system-design-8-b-7-78f"
+  },
+  "/docs/tags/tactician-9ad": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-tactician-7-f-3-c50"
+  },
+  "/docs/tags/tailwind-css-7e1": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-tailwind-css-5-b-4-b4a"
+  },
+  "/docs/tags/tenant-management-11b": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-tenant-management-19-c-bba"
+  },
+  "/docs/tags/terminology-137": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-terminologyfa-0-d9e"
+  },
+  "/docs/tags/testing-strategy-e52": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-testing-strategy-1-f-7-d04"
+  },
+  "/docs/tags/tools-669": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-tools-4-cf-fd4"
+  },
+  "/docs/tags/tutorial-71f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-tutorial-1-f-5-019"
+  },
+  "/docs/tags/type-safety-341": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-type-safetya-2-b-56e"
+  },
+  "/docs/tags/unit-tests-cca": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-unit-testsb-5-d-2f6"
+  },
+  "/docs/tags/use-cases-f71": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-use-casesa-4-e-485"
+  },
+  "/docs/tags/validation-a17": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-validationb-78-8b5"
+  },
+  "/docs/tags/value-objects-3cd": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-value-objects-319-7d5"
+  },
+  "/docs/tags/vue-819": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-vueb-21-04d"
+  },
+  "/docs/tags/vue-js-311": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-vue-jsebe-4b3"
+  },
+  "/docs/tags/webpack-c51": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-webpack-227-510"
+  },
+  "/docs-730": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/-12e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-233-467"
+  },
+  "/docs/Data-model/domain-and-data-shapes-8ea": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-data-model-domain-and-data-shapes-01-c-69d"
+  },
+  "/docs/Data-model/value-objects-821": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-data-model-value-objects-289-a42"
+  },
+  "/docs/dependencies-226": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-dependencies-7-f-8-f9f"
+  },
+  "/docs/directory-structure-c85": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-directory-structure-7-a-5-0cf"
+  },
+  "/docs/Foundations/command-pattern-67d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-foundations-command-patternb-9-d-474"
+  },
+  "/docs/Foundations/conventions-5f5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-foundations-conventions-826-ecc"
+  },
+  "/docs/Foundations/multi-tenancy-073": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-foundations-multi-tenancy-3-a-8-98e"
+  },
+  "/docs/Foundations/request-lifecycle-5e0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-foundations-request-lifecycle-7-dc-2f6"
+  },
+  "/docs/Foundations/security-overview-6a8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-foundations-security-overview-2-a-8-26a"
+  },
+  "/docs/Foundations/system-architecture-7df": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-foundations-system-architecturee-5-f-9af"
+  },
+  "/docs/Frontend/events-and-dom-communication-500": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-frontend-events-and-dom-communication-3-cd-c9b"
+  },
+  "/docs/Frontend/frontend-architecture-cca": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-frontend-frontend-architecture-1-fd-068"
+  },
+  "/docs/glossary-ce1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-glossarye-74-cec"
+  },
+  "/docs/Guides/feature-golden-path-7e3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-guides-feature-golden-path-914-c91"
+  },
+  "/docs/Operations/adr-index-31f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-operations-adr-indexebe-2fc"
+  },
+  "/docs/overview-f91": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-overview-1-db-071"
+  },
+  "/docs/Patterns/commands-and-handlers-2d4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-patterns-commands-and-handlersda-9-067"
+  },
+  "/docs/Patterns/repository-and-caching-strategy-3ac": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-patterns-repository-and-caching-strategyc-01-0a0"
+  },
+  "/docs/Quality/error-and-resilience-743": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-quality-error-and-resilience-58-d-2dc"
+  },
+  "/docs/Quality/performance-and-observability-c78": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-quality-performance-and-observability-80-b-d94"
+  },
+  "/docs/Quality/testing-strategy-01a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-quality-testing-strategy-281-63b"
+  },
+  "/-e5f": {
+    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+    "__context": {
+      "plugin": "plugin---markdown-pagea-74-7b5"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

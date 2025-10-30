@@ -1,0 +1,44 @@
+{
+  "id": "guides/feature-golden-path",
+  "title": "Feature Golden Path",
+  "description": "Purpose",
+  "source": "@site/docs/guides/feature-golden-path.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/feature-golden-path",
+  "permalink": "/docs/guides/feature-golden-path",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/guides/feature-golden-path.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "guide",
+      "permalink": "/docs/tags/guide"
+    },
+    {
+      "inline": true,
+      "label": "feature",
+      "permalink": "/docs/tags/feature"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "status": "draft",
+    "lastReviewed": "2025-10-08T00:00:00.000Z",
+    "owner": "members-module-team",
+    "category": "guides",
+    "tags": [
+      "guide",
+      "feature"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Glossary",
+    "permalink": "/docs/glossary"
+  },
+  "next": {
+    "title": "System Architecture Overview",
+    "permalink": "/docs/overview"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "architecture/glossary",
+  "title": "Glossary",
+  "description": "Command – Object representing an intent; contains only data needed for execution.",
+  "source": "@site/docs/architecture/glossary.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/glossary",
+  "permalink": "/docs/architecture/glossary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/architecture/glossary.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "glossary",
+      "permalink": "/docs/tags/glossary"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "status": "draft",
+    "lastReviewed": "2025-10-08T00:00:00.000Z",
+    "owner": "members-module-team",
+    "category": "foundations",
+    "tags": [
+      "glossary"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Frontend Architecture",
+    "permalink": "/docs/architecture/frontend/frontend-architecture"
+  },
+  "next": {
+    "title": "Feature Golden Path",
+    "permalink": "/docs/architecture/guides/feature-golden-path"
+  }
+}

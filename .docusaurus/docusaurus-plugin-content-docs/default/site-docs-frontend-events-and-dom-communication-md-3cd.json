@@ -1,0 +1,54 @@
+{
+  "id": "Frontend/events-and-dom-communication",
+  "title": "Events and DOM Communication",
+  "description": "Purpose",
+  "source": "@site/docs/Frontend/events-and-dom-communication.md",
+  "sourceDirName": "Frontend",
+  "slug": "/Frontend/events-and-dom-communication",
+  "permalink": "/docs/Frontend/events-and-dom-communication",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Frontend/events-and-dom-communication.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "event-handling",
+      "permalink": "/docs/tags/event-handling"
+    },
+    {
+      "inline": true,
+      "label": "dom-manipulation",
+      "permalink": "/docs/tags/dom-manipulation"
+    },
+    {
+      "inline": true,
+      "label": "component-communication",
+      "permalink": "/docs/tags/component-communication"
+    },
+    {
+      "inline": true,
+      "label": "jquery",
+      "permalink": "/docs/tags/jquery"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "status": "draft",
+    "lastReviewed": "2025-10-08T00:00:00.000Z",
+    "owner": "members-module-team",
+    "category": "frontend",
+    "tags": [
+      "event-handling",
+      "dom-manipulation",
+      "component-communication",
+      "jquery"
+    ]
+  },
+  "sidebar": "frontendSidebar",
+  "next": {
+    "title": "Frontend Architecture",
+    "permalink": "/docs/Frontend/frontend-architecture"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "data-model/value-objects",
+  "title": "Value Objects",
+  "description": "Purpose",
+  "source": "@site/docs/data-model/value-objects.md",
+  "sourceDirName": "data-model",
+  "slug": "/data-model/value-objects",
+  "permalink": "/docs/data-model/value-objects",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/data-model/value-objects.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "value-object",
+      "permalink": "/docs/tags/value-object"
+    },
+    {
+      "inline": true,
+      "label": "modeling",
+      "permalink": "/docs/tags/modeling"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "status": "draft",
+    "lastReviewed": "2025-10-08T00:00:00.000Z",
+    "owner": "members-module-team",
+    "category": "data-model",
+    "tags": [
+      "value-object",
+      "modeling"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Domain and Data Shapes",
+    "permalink": "/docs/data-model/domain-and-data-shapes"
+  },
+  "next": {
+    "title": "Dependencies",
+    "permalink": "/docs/dependencies"
+  }
+}

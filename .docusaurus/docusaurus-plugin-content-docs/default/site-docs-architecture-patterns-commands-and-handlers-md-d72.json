@@ -1,0 +1,44 @@
+{
+  "id": "architecture/patterns/commands-and-handlers",
+  "title": "Commands and Handlers",
+  "description": "Purpose",
+  "source": "@site/docs/architecture/patterns/commands-and-handlers.md",
+  "sourceDirName": "architecture/patterns",
+  "slug": "/architecture/patterns/commands-and-handlers",
+  "permalink": "/docs/architecture/patterns/commands-and-handlers",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/architecture/patterns/commands-and-handlers.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "command",
+      "permalink": "/docs/tags/command"
+    },
+    {
+      "inline": true,
+      "label": "cqrs",
+      "permalink": "/docs/tags/cqrs"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "status": "draft",
+    "lastReviewed": "2025-10-08T00:00:00.000Z",
+    "owner": "members-module-team",
+    "category": "patterns",
+    "tags": [
+      "command",
+      "cqrs"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "System Architecture Overview",
+    "permalink": "/docs/architecture/overview"
+  },
+  "next": {
+    "title": "Repository and Caching Strategy",
+    "permalink": "/docs/architecture/patterns/repository-and-caching-strategy"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "Start-Here",
+  "title": "Architecture Documentation Index",
+  "description": "Start Here (Onboarding Path)",
+  "source": "@site/docs/Start-Here.md",
+  "sourceDirName": ".",
+  "slug": "/Start-Here",
+  "permalink": "/docs/Start-Here",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Start-Here.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "navigation",
+      "permalink": "/docs/tags/navigation"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "status": "draft",
+    "lastReviewed": "2025-10-08T00:00:00.000Z",
+    "owner": "members-module-team",
+    "category": "index",
+    "tags": [
+      "navigation"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "System Architecture",
+    "permalink": "/docs/Foundations/system-architecture"
+  },
+  "next": {
+    "title": "Dependencies",
+    "permalink": "/docs/dependencies"
+  }
+}

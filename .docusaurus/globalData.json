@@ -1,0 +1,180 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "README",
+          "docs": [
+            {
+              "id": "Data-model/domain-and-data-shapes",
+              "path": "/docs/Data-model/domain-and-data-shapes",
+              "sidebar": "dataModelSidebar"
+            },
+            {
+              "id": "Data-model/value-objects",
+              "path": "/docs/Data-model/value-objects",
+              "sidebar": "dataModelSidebar"
+            },
+            {
+              "id": "dependencies",
+              "path": "/docs/dependencies",
+              "sidebar": "overviewSidebar"
+            },
+            {
+              "id": "directory-structure",
+              "path": "/docs/directory-structure",
+              "sidebar": "overviewSidebar"
+            },
+            {
+              "id": "Foundations/command-pattern",
+              "path": "/docs/Foundations/command-pattern",
+              "sidebar": "foundationsSidebar"
+            },
+            {
+              "id": "Foundations/conventions",
+              "path": "/docs/Foundations/conventions",
+              "sidebar": "foundationsSidebar"
+            },
+            {
+              "id": "Foundations/multi-tenancy",
+              "path": "/docs/Foundations/multi-tenancy",
+              "sidebar": "foundationsSidebar"
+            },
+            {
+              "id": "Foundations/request-lifecycle",
+              "path": "/docs/Foundations/request-lifecycle",
+              "sidebar": "foundationsSidebar"
+            },
+            {
+              "id": "Foundations/security-overview",
+              "path": "/docs/Foundations/security-overview",
+              "sidebar": "foundationsSidebar"
+            },
+            {
+              "id": "Foundations/system-architecture",
+              "path": "/docs/Foundations/system-architecture",
+              "sidebar": "foundationsSidebar"
+            },
+            {
+              "id": "Frontend/events-and-dom-communication",
+              "path": "/docs/Frontend/events-and-dom-communication",
+              "sidebar": "frontendSidebar"
+            },
+            {
+              "id": "Frontend/frontend-architecture",
+              "path": "/docs/Frontend/frontend-architecture",
+              "sidebar": "frontendSidebar"
+            },
+            {
+              "id": "glossary",
+              "path": "/docs/glossary",
+              "sidebar": "overviewSidebar"
+            },
+            {
+              "id": "Guides/feature-golden-path",
+              "path": "/docs/Guides/feature-golden-path",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "Operations/adr-index",
+              "path": "/docs/Operations/adr-index",
+              "sidebar": "operationsSidebar"
+            },
+            {
+              "id": "overview",
+              "path": "/docs/overview",
+              "sidebar": "overviewSidebar"
+            },
+            {
+              "id": "Patterns/commands-and-handlers",
+              "path": "/docs/Patterns/commands-and-handlers",
+              "sidebar": "patternsSidebar"
+            },
+            {
+              "id": "Patterns/repository-and-caching-strategy",
+              "path": "/docs/Patterns/repository-and-caching-strategy",
+              "sidebar": "patternsSidebar"
+            },
+            {
+              "id": "Quality/error-and-resilience",
+              "path": "/docs/Quality/error-and-resilience",
+              "sidebar": "qualitySidebar"
+            },
+            {
+              "id": "Quality/performance-and-observability",
+              "path": "/docs/Quality/performance-and-observability",
+              "sidebar": "qualitySidebar"
+            },
+            {
+              "id": "Quality/testing-strategy",
+              "path": "/docs/Quality/testing-strategy",
+              "sidebar": "qualitySidebar"
+            },
+            {
+              "id": "README",
+              "path": "/docs/",
+              "sidebar": "overviewSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "overviewSidebar": {
+              "link": {
+                "path": "/docs/overview",
+                "label": "overview"
+              }
+            },
+            "foundationsSidebar": {
+              "link": {
+                "path": "/docs/Foundations/command-pattern",
+                "label": "Foundations/command-pattern"
+              }
+            },
+            "dataModelSidebar": {
+              "link": {
+                "path": "/docs/Data-model/domain-and-data-shapes",
+                "label": "Data-model/domain-and-data-shapes"
+              }
+            },
+            "patternsSidebar": {
+              "link": {
+                "path": "/docs/Patterns/commands-and-handlers",
+                "label": "Patterns/commands-and-handlers"
+              }
+            },
+            "frontendSidebar": {
+              "link": {
+                "path": "/docs/Frontend/events-and-dom-communication",
+                "label": "Frontend/events-and-dom-communication"
+              }
+            },
+            "qualitySidebar": {
+              "link": {
+                "path": "/docs/Quality/error-and-resilience",
+                "label": "Quality/error-and-resilience"
+              }
+            },
+            "guidesSidebar": {
+              "link": {
+                "path": "/docs/Guides/feature-golden-path",
+                "label": "Guides/feature-golden-path"
+              }
+            },
+            "operationsSidebar": {
+              "link": {
+                "path": "/docs/Operations/adr-index",
+                "label": "Operations/adr-index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

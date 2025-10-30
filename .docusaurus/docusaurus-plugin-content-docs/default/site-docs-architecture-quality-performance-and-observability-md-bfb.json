@@ -1,0 +1,44 @@
+{
+  "id": "architecture/quality/performance-and-observability",
+  "title": "Performance and Observability",
+  "description": "Purpose",
+  "source": "@site/docs/architecture/quality/performance-and-observability.md",
+  "sourceDirName": "architecture/quality",
+  "slug": "/architecture/quality/performance-and-observability",
+  "permalink": "/docs/architecture/quality/performance-and-observability",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/architecture/quality/performance-and-observability.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "performance",
+      "permalink": "/docs/tags/performance"
+    },
+    {
+      "inline": true,
+      "label": "metrics",
+      "permalink": "/docs/tags/metrics"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "status": "draft",
+    "lastReviewed": "2025-10-08T00:00:00.000Z",
+    "owner": "members-module-team",
+    "category": "quality",
+    "tags": [
+      "performance",
+      "metrics"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Error and Resilience",
+    "permalink": "/docs/architecture/quality/error-and-resilience"
+  },
+  "next": {
+    "title": "Testing Strategy",
+    "permalink": "/docs/architecture/quality/testing-strategy"
+  }
+}

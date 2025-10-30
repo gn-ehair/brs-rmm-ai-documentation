@@ -1,0 +1,44 @@
+{
+  "id": "architecture/foundations/conventions",
+  "title": "Conventions",
+  "description": "Purpose",
+  "source": "@site/docs/architecture/foundations/conventions.md",
+  "sourceDirName": "architecture/foundations",
+  "slug": "/architecture/foundations/conventions",
+  "permalink": "/docs/architecture/foundations/conventions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/architecture/foundations/conventions.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "style",
+      "permalink": "/docs/tags/style"
+    },
+    {
+      "inline": true,
+      "label": "naming",
+      "permalink": "/docs/tags/naming"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "status": "draft",
+    "lastReviewed": "2025-10-08T00:00:00.000Z",
+    "owner": "members-module-team",
+    "category": "foundations",
+    "tags": [
+      "style",
+      "naming"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Command Pattern with Tactician",
+    "permalink": "/docs/architecture/foundations/command-pattern"
+  },
+  "next": {
+    "title": "Multi-Tenancy",
+    "permalink": "/docs/architecture/foundations/multi-tenancy"
+  }
+}

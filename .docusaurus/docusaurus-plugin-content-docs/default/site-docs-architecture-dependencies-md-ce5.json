@@ -1,0 +1,44 @@
+{
+  "id": "architecture/dependencies",
+  "title": "Dependencies",
+  "description": "Overview",
+  "source": "@site/docs/architecture/dependencies.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/dependencies",
+  "permalink": "/docs/architecture/dependencies",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/architecture/dependencies.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "dependencies",
+      "permalink": "/docs/tags/dependencies"
+    },
+    {
+      "inline": true,
+      "label": "reference",
+      "permalink": "/docs/tags/reference"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "status": "draft",
+    "lastReviewed": "2025-10-08T00:00:00.000Z",
+    "owner": "members-module-team",
+    "category": "operations",
+    "tags": [
+      "dependencies",
+      "reference"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Value Objects",
+    "permalink": "/docs/architecture/data-model/value-objects"
+  },
+  "next": {
+    "title": "Directory Structure",
+    "permalink": "/docs/architecture/directory-structure"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "Foundations/system-architecture",
+  "title": "System Architecture",
+  "description": "Purpose",
+  "source": "@site/docs/Foundations/system-architecture.md",
+  "sourceDirName": "Foundations",
+  "slug": "/Foundations/system-architecture",
+  "permalink": "/docs/Foundations/system-architecture",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Foundations/system-architecture.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "architecture",
+      "permalink": "/docs/tags/architecture"
+    },
+    {
+      "inline": true,
+      "label": "system-design",
+      "permalink": "/docs/tags/system-design"
+    },
+    {
+      "inline": true,
+      "label": "components",
+      "permalink": "/docs/tags/components"
+    },
+    {
+      "inline": true,
+      "label": "infrastructure",
+      "permalink": "/docs/tags/infrastructure"
+    },
+    {
+      "inline": true,
+      "label": "deployment",
+      "permalink": "/docs/tags/deployment"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "status": "draft",
+    "lastReviewed": "2025-10-08T00:00:00.000Z",
+    "owner": "members-module-team",
+    "category": "foundations",
+    "tags": [
+      "architecture",
+      "system-design",
+      "components",
+      "infrastructure",
+      "deployment"
+    ]
+  },
+  "sidebar": "foundationsSidebar",
+  "previous": {
+    "title": "Security Overview",
+    "permalink": "/docs/Foundations/security-overview"
+  }
+}

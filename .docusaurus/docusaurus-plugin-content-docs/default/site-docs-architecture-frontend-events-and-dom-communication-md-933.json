@@ -1,0 +1,44 @@
+{
+  "id": "architecture/frontend/events-and-dom-communication",
+  "title": "Events and DOM Communication",
+  "description": "Purpose",
+  "source": "@site/docs/architecture/frontend/events-and-dom-communication.md",
+  "sourceDirName": "architecture/frontend",
+  "slug": "/architecture/frontend/events-and-dom-communication",
+  "permalink": "/docs/architecture/frontend/events-and-dom-communication",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/architecture/frontend/events-and-dom-communication.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "events",
+      "permalink": "/docs/tags/events"
+    },
+    {
+      "inline": true,
+      "label": "dom",
+      "permalink": "/docs/tags/dom"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "status": "draft",
+    "lastReviewed": "2025-10-08T00:00:00.000Z",
+    "owner": "members-module-team",
+    "category": "frontend",
+    "tags": [
+      "events",
+      "dom"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "System Architecture",
+    "permalink": "/docs/architecture/foundations/system-architecture"
+  },
+  "next": {
+    "title": "Frontend Architecture",
+    "permalink": "/docs/architecture/frontend/frontend-architecture"
+  }
+}

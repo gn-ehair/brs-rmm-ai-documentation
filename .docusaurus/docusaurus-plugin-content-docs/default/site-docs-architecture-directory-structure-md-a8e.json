@@ -1,0 +1,24 @@
+{
+  "id": "architecture/directory-structure",
+  "title": "Directory Structure",
+  "description": "Overview",
+  "source": "@site/docs/architecture/directory-structure.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/directory-structure",
+  "permalink": "/docs/architecture/directory-structure",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/architecture/directory-structure.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dependencies",
+    "permalink": "/docs/architecture/dependencies"
+  },
+  "next": {
+    "title": "Command Pattern with Tactician",
+    "permalink": "/docs/architecture/foundations/command-pattern"
+  }
+}

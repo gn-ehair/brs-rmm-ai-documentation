@@ -1,0 +1,44 @@
+{
+  "id": "architecture/quality/error-and-resilience",
+  "title": "Error and Resilience",
+  "description": "Purpose",
+  "source": "@site/docs/architecture/quality/error-and-resilience.md",
+  "sourceDirName": "architecture/quality",
+  "slug": "/architecture/quality/error-and-resilience",
+  "permalink": "/docs/architecture/quality/error-and-resilience",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/architecture/quality/error-and-resilience.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "resilience",
+      "permalink": "/docs/tags/resilience"
+    },
+    {
+      "inline": true,
+      "label": "errors",
+      "permalink": "/docs/tags/errors"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "status": "draft",
+    "lastReviewed": "2025-10-08T00:00:00.000Z",
+    "owner": "members-module-team",
+    "category": "quality",
+    "tags": [
+      "resilience",
+      "errors"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Repository and Caching Strategy",
+    "permalink": "/docs/architecture/patterns/repository-and-caching-strategy"
+  },
+  "next": {
+    "title": "Performance and Observability",
+    "permalink": "/docs/architecture/quality/performance-and-observability"
+  }
+}

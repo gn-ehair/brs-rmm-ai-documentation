@@ -1,0 +1,23 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureSvg {
+  height: 200px;
+  width: 200px;
+}
+
+/* Custom link colors for this component */
+.features a {
+  color: #0066cc; /* Default link color */
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.features a:hover {
+  color: #004499; /* Hover color */
+  text-decoration: underline;
+}

@@ -1,0 +1,44 @@
+{
+  "id": "foundations/request-lifecycle",
+  "title": "Request Lifecycle",
+  "description": "Purpose",
+  "source": "@site/docs/foundations/request-lifecycle.md",
+  "sourceDirName": "foundations",
+  "slug": "/foundations/request-lifecycle",
+  "permalink": "/docs/foundations/request-lifecycle",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/foundations/request-lifecycle.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "lifecycle",
+      "permalink": "/docs/tags/lifecycle"
+    },
+    {
+      "inline": true,
+      "label": "flow",
+      "permalink": "/docs/tags/flow"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "status": "draft",
+    "lastReviewed": "2025-10-08T00:00:00.000Z",
+    "owner": "members-module-team",
+    "category": "foundations",
+    "tags": [
+      "lifecycle",
+      "flow"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Multi-Tenancy",
+    "permalink": "/docs/foundations/multi-tenancy"
+  },
+  "next": {
+    "title": "Security Overview",
+    "permalink": "/docs/foundations/security-overview"
+  }
+}

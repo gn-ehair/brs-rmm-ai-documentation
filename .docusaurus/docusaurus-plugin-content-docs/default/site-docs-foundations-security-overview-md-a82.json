@@ -1,0 +1,44 @@
+{
+  "id": "foundations/security-overview",
+  "title": "Security Overview",
+  "description": "Purpose",
+  "source": "@site/docs/foundations/security-overview.md",
+  "sourceDirName": "foundations",
+  "slug": "/foundations/security-overview",
+  "permalink": "/docs/foundations/security-overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/foundations/security-overview.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "security",
+      "permalink": "/docs/tags/security"
+    },
+    {
+      "inline": true,
+      "label": "isolation",
+      "permalink": "/docs/tags/isolation"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "status": "draft",
+    "lastReviewed": "2025-10-08T00:00:00.000Z",
+    "owner": "members-module-team",
+    "category": "foundations",
+    "tags": [
+      "security",
+      "isolation"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Request Lifecycle",
+    "permalink": "/docs/foundations/request-lifecycle"
+  },
+  "next": {
+    "title": "System Architecture",
+    "permalink": "/docs/foundations/system-architecture"
+  }
+}

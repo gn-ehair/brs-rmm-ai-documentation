@@ -1,0 +1,44 @@
+{
+  "id": "frontend/frontend-architecture",
+  "title": "Frontend Architecture",
+  "description": "Purpose",
+  "source": "@site/docs/frontend/frontend-architecture.md",
+  "sourceDirName": "frontend",
+  "slug": "/frontend/frontend-architecture",
+  "permalink": "/docs/frontend/frontend-architecture",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/frontend/frontend-architecture.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "vue",
+      "permalink": "/docs/tags/vue"
+    },
+    {
+      "inline": true,
+      "label": "frontend",
+      "permalink": "/docs/tags/frontend"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "status": "draft",
+    "lastReviewed": "2025-10-08T00:00:00.000Z",
+    "owner": "members-module-team",
+    "category": "frontend",
+    "tags": [
+      "vue",
+      "frontend"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Events and DOM Communication",
+    "permalink": "/docs/frontend/events-and-dom-communication"
+  },
+  "next": {
+    "title": "Glossary",
+    "permalink": "/docs/glossary"
+  }
+}

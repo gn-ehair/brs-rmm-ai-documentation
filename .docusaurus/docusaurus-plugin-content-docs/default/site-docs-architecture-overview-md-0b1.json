@@ -1,0 +1,38 @@
+{
+  "id": "architecture/overview",
+  "title": "System Architecture Overview",
+  "description": "Introduction",
+  "source": "@site/docs/architecture/overview.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/overview",
+  "permalink": "/docs/architecture/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/architecture/overview.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "overview",
+      "permalink": "/docs/tags/overview"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "status": "draft",
+    "lastReviewed": "2025-10-08T00:00:00.000Z",
+    "owner": "members-module-team",
+    "category": "general",
+    "tags": [
+      "overview"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ADR Index",
+    "permalink": "/docs/architecture/operations/adr-index"
+  },
+  "next": {
+    "title": "Commands and Handlers",
+    "permalink": "/docs/architecture/patterns/commands-and-handlers"
+  }
+}

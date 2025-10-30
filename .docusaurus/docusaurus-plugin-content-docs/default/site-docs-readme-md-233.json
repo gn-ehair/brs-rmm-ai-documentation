@@ -1,0 +1,60 @@
+{
+  "id": "README",
+  "title": "Start Here",
+  "description": "Start Here (Onboarding Path)",
+  "source": "@site/docs/README.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/docs/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/README.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "getting-started",
+      "permalink": "/docs/tags/getting-started"
+    },
+    {
+      "inline": true,
+      "label": "navigation",
+      "permalink": "/docs/tags/navigation"
+    },
+    {
+      "inline": true,
+      "label": "introduction",
+      "permalink": "/docs/tags/introduction"
+    },
+    {
+      "inline": true,
+      "label": "roadmap",
+      "permalink": "/docs/tags/roadmap"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Start Here",
+    "position": 1,
+    "status": "draft",
+    "lastReviewed": "2025-10-08T00:00:00.000Z",
+    "owner": "members-module-team",
+    "category": "index",
+    "tags": [
+      "getting-started",
+      "navigation",
+      "introduction",
+      "roadmap"
+    ]
+  },
+  "sidebar": "overviewSidebar",
+  "previous": {
+    "title": "System Architecture Overview",
+    "permalink": "/docs/overview"
+  },
+  "next": {
+    "title": "Dependencies",
+    "permalink": "/docs/dependencies"
+  }
+}

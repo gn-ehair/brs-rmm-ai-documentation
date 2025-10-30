@@ -1,0 +1,60 @@
+{
+  "id": "Data-model/domain-and-data-shapes",
+  "title": "Domain and Data Shapes",
+  "description": "Purpose",
+  "source": "@site/docs/Data-model/domain-and-data-shapes.md",
+  "sourceDirName": "Data-model",
+  "slug": "/Data-model/domain-and-data-shapes",
+  "permalink": "/docs/Data-model/domain-and-data-shapes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Data-model/domain-and-data-shapes.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "domain-modeling",
+      "permalink": "/docs/tags/domain-modeling"
+    },
+    {
+      "inline": true,
+      "label": "data-structures",
+      "permalink": "/docs/tags/data-structures"
+    },
+    {
+      "inline": true,
+      "label": "entities",
+      "permalink": "/docs/tags/entities"
+    },
+    {
+      "inline": true,
+      "label": "api-shapes",
+      "permalink": "/docs/tags/api-shapes"
+    },
+    {
+      "inline": true,
+      "label": "serialization",
+      "permalink": "/docs/tags/serialization"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "status": "draft",
+    "lastReviewed": "2025-10-08T00:00:00.000Z",
+    "owner": "members-module-team",
+    "category": "data-model",
+    "tags": [
+      "domain-modeling",
+      "data-structures",
+      "entities",
+      "api-shapes",
+      "serialization"
+    ]
+  },
+  "sidebar": "dataModelSidebar",
+  "next": {
+    "title": "Value Objects",
+    "permalink": "/docs/Data-model/value-objects"
+  }
+}

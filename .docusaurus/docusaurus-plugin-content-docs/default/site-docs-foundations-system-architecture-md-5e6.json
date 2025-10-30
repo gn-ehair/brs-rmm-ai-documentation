@@ -1,0 +1,44 @@
+{
+  "id": "foundations/system-architecture",
+  "title": "System Architecture",
+  "description": "Purpose",
+  "source": "@site/docs/foundations/system-architecture.md",
+  "sourceDirName": "foundations",
+  "slug": "/foundations/system-architecture",
+  "permalink": "/docs/foundations/system-architecture",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/foundations/system-architecture.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "architecture",
+      "permalink": "/docs/tags/architecture"
+    },
+    {
+      "inline": true,
+      "label": "flow",
+      "permalink": "/docs/tags/flow"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "status": "draft",
+    "lastReviewed": "2025-10-08T00:00:00.000Z",
+    "owner": "members-module-team",
+    "category": "foundations",
+    "tags": [
+      "architecture",
+      "flow"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Security Overview",
+    "permalink": "/docs/foundations/security-overview"
+  },
+  "next": {
+    "title": "Events and DOM Communication",
+    "permalink": "/docs/frontend/events-and-dom-communication"
+  }
+}

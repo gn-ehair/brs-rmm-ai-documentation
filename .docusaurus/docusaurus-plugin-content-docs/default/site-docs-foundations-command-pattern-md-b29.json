@@ -1,0 +1,24 @@
+{
+  "id": "foundations/command-pattern",
+  "title": "Command Pattern with Tactician",
+  "description": "Overview",
+  "source": "@site/docs/foundations/command-pattern.md",
+  "sourceDirName": "foundations",
+  "slug": "/foundations/command-pattern",
+  "permalink": "/docs/foundations/command-pattern",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/foundations/command-pattern.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Directory Structure",
+    "permalink": "/docs/directory-structure"
+  },
+  "next": {
+    "title": "Conventions",
+    "permalink": "/docs/foundations/conventions"
+  }
+}

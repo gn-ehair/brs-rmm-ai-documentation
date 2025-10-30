@@ -1,0 +1,44 @@
+{
+  "id": "data-model/domain-and-data-shapes",
+  "title": "Domain and Data Shapes",
+  "description": "Purpose",
+  "source": "@site/docs/data-model/domain-and-data-shapes.md",
+  "sourceDirName": "data-model",
+  "slug": "/data-model/domain-and-data-shapes",
+  "permalink": "/docs/data-model/domain-and-data-shapes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/data-model/domain-and-data-shapes.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "data",
+      "permalink": "/docs/tags/data"
+    },
+    {
+      "inline": true,
+      "label": "modeling",
+      "permalink": "/docs/tags/modeling"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "status": "draft",
+    "lastReviewed": "2025-10-08T00:00:00.000Z",
+    "owner": "members-module-team",
+    "category": "data-model",
+    "tags": [
+      "data",
+      "modeling"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Architecture Documentation Index",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "Value Objects",
+    "permalink": "/docs/data-model/value-objects"
+  }
+}

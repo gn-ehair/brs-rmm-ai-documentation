@@ -1,0 +1,44 @@
+{
+  "id": "operations/adr-index",
+  "title": "ADR Index",
+  "description": "List of Architectural Decision Records (ADRs). If no ADRs exist yet, this file seeds the structure.",
+  "source": "@site/docs/operations/adr-index.md",
+  "sourceDirName": "operations",
+  "slug": "/operations/adr-index",
+  "permalink": "/docs/operations/adr-index",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/operations/adr-index.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "decisions",
+      "permalink": "/docs/tags/decisions"
+    },
+    {
+      "inline": true,
+      "label": "governance",
+      "permalink": "/docs/tags/governance"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "status": "draft",
+    "lastReviewed": "2025-10-08T00:00:00.000Z",
+    "owner": "members-module-team",
+    "category": "operations",
+    "tags": [
+      "decisions",
+      "governance"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Feature Golden Path",
+    "permalink": "/docs/guides/feature-golden-path"
+  },
+  "next": {
+    "title": "System Architecture Overview",
+    "permalink": "/docs/overview"
+  }
+}

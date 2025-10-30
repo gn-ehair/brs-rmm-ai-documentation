@@ -1,0 +1,44 @@
+{
+  "id": "architecture/foundations/multi-tenancy",
+  "title": "Multi-Tenancy",
+  "description": "Purpose",
+  "source": "@site/docs/architecture/foundations/multi-tenancy.md",
+  "sourceDirName": "architecture/foundations",
+  "slug": "/architecture/foundations/multi-tenancy",
+  "permalink": "/docs/architecture/foundations/multi-tenancy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/architecture/foundations/multi-tenancy.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "isolation",
+      "permalink": "/docs/tags/isolation"
+    },
+    {
+      "inline": true,
+      "label": "security",
+      "permalink": "/docs/tags/security"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "status": "draft",
+    "lastReviewed": "2025-10-08T00:00:00.000Z",
+    "owner": "members-module-team",
+    "category": "foundations",
+    "tags": [
+      "isolation",
+      "security"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Conventions",
+    "permalink": "/docs/architecture/foundations/conventions"
+  },
+  "next": {
+    "title": "Request Lifecycle",
+    "permalink": "/docs/architecture/foundations/request-lifecycle"
+  }
+}

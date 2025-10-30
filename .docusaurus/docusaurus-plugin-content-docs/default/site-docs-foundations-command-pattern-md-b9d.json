@@ -1,0 +1,60 @@
+{
+  "id": "Foundations/command-pattern",
+  "title": "Command Pattern with Tactician",
+  "description": "Overview",
+  "source": "@site/docs/Foundations/command-pattern.md",
+  "sourceDirName": "Foundations",
+  "slug": "/Foundations/command-pattern",
+  "permalink": "/docs/Foundations/command-pattern",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Foundations/command-pattern.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "command-pattern",
+      "permalink": "/docs/tags/command-pattern"
+    },
+    {
+      "inline": true,
+      "label": "cqrs",
+      "permalink": "/docs/tags/cqrs"
+    },
+    {
+      "inline": true,
+      "label": "tactician",
+      "permalink": "/docs/tags/tactician"
+    },
+    {
+      "inline": true,
+      "label": "handlers",
+      "permalink": "/docs/tags/handlers"
+    },
+    {
+      "inline": true,
+      "label": "separation-of-concerns",
+      "permalink": "/docs/tags/separation-of-concerns"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "status": "draft",
+    "lastReviewed": "2025-10-08T00:00:00.000Z",
+    "owner": "members-module-team",
+    "category": "patterns",
+    "tags": [
+      "command-pattern",
+      "cqrs",
+      "tactician",
+      "handlers",
+      "separation-of-concerns"
+    ]
+  },
+  "sidebar": "foundationsSidebar",
+  "next": {
+    "title": "Conventions",
+    "permalink": "/docs/Foundations/conventions"
+  }
+}
